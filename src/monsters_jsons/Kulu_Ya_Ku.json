@@ -1,0 +1,173 @@
+{
+    "Kulu_Ya_Ku": {
+        "1_Star": {
+            "HP": "518",
+            "Poison": "498",
+            "Paralysis": "383",
+            "Sleep": "383",
+            "Stun": "100",
+            "Attack": "39",
+            "Head": "233",
+            "Forelegs": "207",
+            "Stomach": "217"
+        },
+        "2_Stars": {
+            "HP": "1521",
+            "Poison": "831",
+            "Paralysis": "639",
+            "Sleep": "639",
+            "Stun": "100",
+            "Attack": "85",
+            "Head": "684",
+            "Forelegs": "608",
+            "Stomach": "638"
+        },
+        "3_Stars": {
+            "HP": "2340",
+            "Poison": "1545",
+            "Paralysis": "1188",
+            "Sleep": "1188",
+            "Stun": "100",
+            "Attack": "186",
+            "Head": "1053",
+            "Forelegs": "936",
+            "Stomach": "982"
+        },
+        "4_Stars": {
+            "HP": "3505",
+            "Poison": "2138",
+            "Paralysis": "1645",
+            "Sleep": "1645",
+            "Stun": "100",
+            "Attack": "265",
+            "Head": "1577",
+            "Forelegs": "1402",
+            "Stomach": "1472"
+        },
+        "5_Stars": {
+            "HP": "6149",
+            "Poison": "2926",
+            "Paralysis": "2250",
+            "Sleep": "2250",
+            "Stun": "100",
+            "Attack": "367",
+            "Head": "2767",
+            "Forelegs": "2459",
+            "Stomach": "2582"
+        },
+        "6_Stars": {
+            "HP": "10052",
+            "Poison": "3545",
+            "Paralysis": "2727",
+            "Sleep": "2727",
+            "Stun": "100",
+            "Attack": "449",
+            "Head": "4523",
+            "Forelegs": "4020",
+            "Stomach": "4222"
+        },
+        "7_Stars": {
+            "HP": "16720",
+            "Poison": "4220",
+            "Paralysis": "3246",
+            "Sleep": "3246",
+            "Stun": "100",
+            "Attack": "564",
+            "Head": "7524",
+            "Forelegs": "6688",
+            "Stomach": "7022"
+        },
+        "8_Stars": {
+            "HP": "30573",
+            "Poison": "4752",
+            "Paralysis": "3655",
+            "Sleep": "3655",
+            "Stun": "100",
+            "Attack": "665",
+            "Head": "13757",
+            "Forelegs": "12229",
+            "Stomach": "12840"
+        },
+        "9_Stars": {
+            "HP": "64566",
+            "Poison": "5485",
+            "Paralysis": "4219",
+            "Sleep": "4219",
+            "Stun": "100",
+            "Attack": "800",
+            "Head": "29054",
+            "Forelegs": "25826",
+            "Stomach": "27117"
+        },
+        "10_Stars": {
+            "HP": "132493",
+            "Poison": "6084",
+            "Paralysis": "4680",
+            "Sleep": "4680",
+            "Stun": "100",
+            "Attack": "910",
+            "Head": "59621",
+            "Forelegs": "52997",
+            "Stomach": "55647"
+        },
+        "Habitat": "Forest, Swamp, Desert",
+        "Weaknesses": "Water",
+        "Breakable_Parts": "Head, Arms",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 140,
+                "Weakness Exploit": true
+            },
+            "Body": {
+                "Sever": 90,
+                "Blunt": 90,
+                "Ranged": 70
+            },
+            "Forelegs": {
+                "Sever": 130,
+                "Blunt": 135,
+                "Ranged": 130,
+                "Weakness Exploit": true
+            },
+            "Hindlegs": {
+                "Sever": 90,
+                "Blunt": 90,
+                "Ranged": 70
+            },
+            "Tail": {
+                "Sever": 110,
+                "Blunt": 110,
+                "Ranged": 70
+            },
+            "Rock": {
+                "Sever": 10,
+                "Blunt": 10,
+                "Ranged": 10
+            }
+        },
+        "MV": {
+            "Peck": 22,
+            "Double_Slap": 28,
+            "Scratch": 28,
+            "Pounce_Start": 28,
+            "Pounce": 37,
+            "Dig": 10,
+            "Holding_Pounce": 46,
+            "Holding_Charge": 37,
+            "Holding_Slamming": 40,
+            "Holding_Throw": 30,
+            "Holding_Break_Pounce": 46
+        },
+        "Drop_Material_By_Parts": {
+            "Kulu_Ya_Ku_Scale": "Any",
+            "Kulu_Ya_Ku_Hide": "Any",
+            "Kulu_Ya_Ku_Beak": "Head",
+            "Kulu_Ya_Ku_Plume": "Forelegs",
+            "Kulu_Ya_Ku_Primescale": "Head",
+            "Kulu_Ya_Ku_Primehide": "Forelegs",
+            "Wyvern_Gem_Shard": "Head"
+        }
+    }
+}

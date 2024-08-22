@@ -1,0 +1,138 @@
+{
+    "Legiana": {
+        "5_Stars": {
+            "HP": "7460",
+            "Poison": "1782",
+            "Paralysis": "2545",
+            "Sleep": "2545",
+            "Stun": "100",
+            "Attack": "418",
+            "Head": "3730",
+            "Back": "2984",
+            "L_R_Wings": "2611",
+            "Tail": "2238"
+        },
+        "6_Stars": {
+            "HP": "13597",
+            "Poison": "2189",
+            "Paralysis": "3128",
+            "Sleep": "3128",
+            "Stun": "100",
+            "Attack": "566",
+            "Head": "6798",
+            "Back": "5438",
+            "L_R_Wings": "4758",
+            "Tail": "4079"
+        },
+        "7_Stars": {
+            "HP": "23871",
+            "Poison": "2471",
+            "Paralysis": "3530",
+            "Sleep": "3530",
+            "Stun": "100",
+            "Attack": "635",
+            "Head": "11935",
+            "Back": "9548",
+            "L_R_Wings": "8354",
+            "Tail": "7161"
+        },
+        "8_Stars": {
+            "HP": "45114",
+            "Poison": "2769",
+            "Paralysis": "3956",
+            "Sleep": "3956",
+            "Stun": "100",
+            "Attack": "737",
+            "Head": "22557",
+            "Back": "18045",
+            "L_R_Wings": "15789",
+            "Tail": "13534"
+        },
+        "9_Stars": {
+            "HP": "96559",
+            "Poison": "3115",
+            "Paralysis": "4450",
+            "Sleep": "4450",
+            "Stun": "100",
+            "Attack": "855",
+            "Head": "48279",
+            "Back": "38623",
+            "L_R_Wings": "33795",
+            "Tail": "28967"
+        },
+        "10_Stars": {
+            "HP": "174906",
+            "Poison": "3445",
+            "Paralysis": "4922",
+            "Sleep": "4922",
+            "Stun": "100",
+            "Attack": "968",
+            "Head": "87453",
+            "Back": "69962",
+            "L_R_Wings": "61217",
+            "Tail": "52471"
+        },
+        "Habitat": "Swamp",
+        "Weaknesses": "Fire, Poison",
+        "Breakable_Parts": "Head, Wings, Tail, Back",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 145
+            },
+            "Body": {
+                "Sever": 80,
+                "Blunt": 90,
+                "Ranged": 65
+            },
+            "Back": {
+                "Sever": 80,
+                "Blunt": 90,
+                "Ranged": 65
+            },
+            "Wings": {
+                "Sever": 130,
+                "Blunt": 130,
+                "Ranged": 140
+            },
+            "Legs": {
+                "Sever": 90,
+                "Blunt": 100,
+                "Ranged": 70
+            },
+            "Tail": {
+                "Sever": 120,
+                "Blunt": 110,
+                "Ranged": 90
+            }
+        },
+        "MV": {
+            "Ground_Bite": 25,
+            "Ground_Forward_Bite": 25,
+            "Ground_Rush": 37,
+            "Spin_Rush": 34,
+            "Ground_Stomp": 40,
+            "Ground_Tail_Sweep": 37,
+            "Ground_Frost_Tail_Sweep": 55,
+            "Ground_Tail_Spin": 31,
+            "Ground_Tail_Strike": 34,
+            "Ground_Frost_Tail_Strike": 43,
+            "Ground_Pounce_Kick": 35,
+            "Frost_Shot": 40,
+            "Flying_Charge_Bite": 31,
+            "Flying_Lower_Tail_Roll": 37,
+            "Flying_Frost_Sweep": 52,
+            "Flying_Lower_Claw": 25
+        },
+        "Drop_Material_By_Parts": {
+            "Legiana_Scale": "Any",
+            "Legiana_Hide": "Any",
+            "Legiana_Claw": "Wings",
+            "Legiana_Webbing": "Wings",
+            "Legiana_Primescale": "Wings",
+            "Legiana_Plate": "Tail",
+            "Wyvern_Gem_Shard": "Wings"
+        }
+    }
+}

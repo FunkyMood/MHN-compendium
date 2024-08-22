@@ -1,0 +1,144 @@
+{
+    "Anjanath": {
+        "4_Stars": {
+            "HP": "4212",
+            "Poison": "2560",
+            "Paralysis": "1969",
+            "Sleep": "1969",
+            "Stun": "100",
+            "Attack": "320",
+            "Head": "1895",
+            "L_R_Hindlegs": "1684",
+            "Tail": "842"
+        },
+        "5_Stars": {
+            "HP": "6982",
+            "Poison": "3230",
+            "Paralysis": "2484",
+            "Sleep": "2484",
+            "Stun": "100",
+            "Attack": "407",
+            "Head": "3141",
+            "L_R_Hindlegs": "2792",
+            "Tail": "1396"
+        },
+        "6_Stars": {
+            "HP": "12202",
+            "Poison": "3963",
+            "Paralysis": "3049",
+            "Sleep": "3049",
+            "Stun": "100",
+            "Attack": "512",
+            "Head": "5490",
+            "L_R_Hindlegs": "4880",
+            "Tail": "2440"
+        },
+        "7_Stars": {
+            "HP": "20826",
+            "Poison": "4481",
+            "Paralysis": "3447",
+            "Sleep": "3447",
+            "Stun": "100",
+            "Attack": "615",
+            "Head": "9371",
+            "L_R_Hindlegs": "8330",
+            "Tail": "4165"
+        },
+        "8_Stars": {
+            "HP": "39061",
+            "Poison": "5028",
+            "Paralysis": "3868",
+            "Sleep": "3868",
+            "Stun": "100",
+            "Attack": "716",
+            "Head": "17577",
+            "L_R_Hindlegs": "15624",
+            "Tail": "7812"
+        },
+        "9_Stars": {
+            "HP": "83245",
+            "Poison": "5664",
+            "Paralysis": "4357",
+            "Sleep": "4357",
+            "Stun": "100",
+            "Attack": "833",
+            "Head": "37460",
+            "L_R_Hindlegs": "33298",
+            "Tail": "16649"
+        },
+        "10_Stars": {
+            "HP": "156881",
+            "Poison": "6273",
+            "Paralysis": "4825",
+            "Sleep": "4825",
+            "Stun": "100",
+            "Attack": "945",
+            "Head": "70596",
+            "L_R_Hindlegs": "62752",
+            "Tail": "31376"
+        },
+        "Habitat": "Forest, Desert",
+        "Weaknesses": "Water",
+        "Breakable_Parts": "Head, Hindlegs, Tail_cut",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 130,
+                "Blunt": 135,
+                "Ranged": 130
+            },
+            "Snout": {
+                "Sever": 140,
+                "Blunt": 140,
+                "Ranged": 145
+            },
+            "Neck": {
+                "Sever": 90,
+                "Blunt": 90,
+                "Ranged": 65
+            },
+            "Body": {
+                "Sever": 90,
+                "Blunt": 90,
+                "Ranged": 80
+            },
+            "Wings": {
+                "Sever": 140,
+                "Blunt": 110,
+                "Ranged": 145
+            },
+            "Hindlegs": {
+                "Sever": 90,
+                "Blunt": 100,
+                "Ranged": 70
+            },
+            "Tail": {
+                "Sever": 130,
+                "Blunt": 120,
+                "Ranged": 95
+            }
+        },
+        "MV": {
+            "Rush": 42,
+            "Bulldozer_Attack": 58,
+            "Weak_Bite": 22,
+            "Sweep_Bite": 47,
+            "Combo_Bite": 43,
+            "Advance_Sweep": 40,
+            "Jump_Attack": 47,
+            "Side_Tackle": 22,
+            "Leg_Claw": 19,
+            "Tail_Slam": 22,
+            "Tail_Roll": 25,
+            "Fire_Breath": 28
+        },
+        "Drop_Material_By_Parts": {
+            "Anjanath_Shell": "Any",
+            "Anjanath_Scale": "Any",
+            "Anjanath_Fang": "Head",
+            "Anjanath_Fin": "Body",
+            "Anjanath_Primescale": "Body",
+            "Anjanath_Primeshell": "Tail",
+            "Wyvern_Gem_Shard": "Head"
+        }
+    }
+}

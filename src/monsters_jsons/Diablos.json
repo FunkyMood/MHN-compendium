@@ -1,0 +1,142 @@
+{
+    "Diablos": {
+        "5_Stars": {
+            "HP": "6851",
+            "Poison": "3309",
+            "Paralysis": "1782",
+            "Sleep": "2545",
+            "Stun": "130",
+            "Attack": "418",
+            "Back": "3425",
+            "Right_Horn": "2740",
+            "Left_Horn": "5480",
+            "Tail": "1712"
+        },
+        "6_Stars": {
+            "HP": "12487",
+            "Poison": "4066",
+            "Paralysis": "2189",
+            "Sleep": "3128",
+            "Stun": "130",
+            "Attack": "566",
+            "Back": "6243",
+            "Right_Horn": "4994",
+            "Left_Horn": "9989",
+            "Tail": "3121"
+        },
+        "7_Stars": {
+            "HP": "21922",
+            "Poison": "4590",
+            "Paralysis": "2471",
+            "Sleep": "3530",
+            "Stun": "130",
+            "Attack": "635",
+            "Back": "10961",
+            "Right_Horn": "8768",
+            "Left_Horn": "17537",
+            "Tail": "5480"
+        },
+        "8_Stars": {
+            "HP": "41432",
+            "Poison": "5142",
+            "Paralysis": "2769",
+            "Sleep": "3956",
+            "Stun": "130",
+            "Attack": "737",
+            "Back": "20716",
+            "Right_Horn": "16572",
+            "Left_Horn": "33145",
+            "Tail": "10358"
+        },
+        "9_Stars": {
+            "HP": "88677",
+            "Poison": "5784",
+            "Paralysis": "3115",
+            "Sleep": "4450",
+            "Stun": "130",
+            "Attack": "855",
+            "Back": "44338",
+            "Right_Horn": "35470",
+            "Left_Horn": "70941",
+            "Tail": "22169"
+        },
+        "10_Stars": {
+            "HP": "160628",
+            "Poison": "6399",
+            "Paralysis": "3445",
+            "Sleep": "4922",
+            "Stun": "130",
+            "Attack": "968",
+            "Back": "80314",
+            "Right_Horn": "64251",
+            "Left_Horn": "128502",
+            "Tail": "40157"
+        },
+        "Habitat": "Desert",
+        "Weaknesses": "Ice, Dragon, Paralysis",
+        "Breakable_Parts": "Horns, Back, Wings, Tail_cut",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 110,
+                "Blunt": 135,
+                "Ranged": 90
+            },
+            "Horns": {
+                "Sever": 80,
+                "Blunt": 100,
+                "Ranged": 65
+            },
+            "Body": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 90
+            },
+            "Back": {
+                "Sever": 80,
+                "Blunt": 100,
+                "Ranged": 65
+            },
+            "Wings": {
+                "Sever": 110,
+                "Blunt": 90,
+                "Ranged": 135
+            },
+            "Legs": {
+                "Sever": 100,
+                "Blunt": 100,
+                "Ranged": 80
+            },
+            "Tail": {
+                "Sever": 130,
+                "Blunt": 80,
+                "Ranged": 80
+            },
+            "Tail_Tip": {
+                "Sever": 80,
+                "Blunt": 90,
+                "Ranged": 55
+            }
+        },
+        "MV": {
+            "Ground_Rush": 63,
+            "Ground_Mole_Attack": 63,
+            "Ground_Horn_Toss": 53,
+            "Ground_Tail_Swing": 49,
+            "Ground_Horn_Swing_Horn": 52,
+            "Ground_Horn_Swing_Tail": 37,
+            "Ground_Horn_Swing_Foot": 21,
+            "Ground_Tail_Strike": 49,
+            "Ground_Side_Tackle_Body": 49,
+            "Ground_Side_Tackle_Tail": 21
+        },
+        "Drop_Material_By_Parts": {
+            "Diablos_Shell": "Any",
+            "Diablos_Fang": "Any",
+            "Diablos_Tailcase": "Tail",
+            "Diablos_Ridge": "Back",
+            "Diablos_Primeshell": "Back",
+            "Diablos_Marrow": "Back, Tail",
+            "Wyvern_Gem_Shard": "Horns"
+        }
+    }
+}

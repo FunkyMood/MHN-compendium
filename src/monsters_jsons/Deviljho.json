@@ -1,0 +1,164 @@
+{
+    "Deviljho": {
+        "5_Stars": {
+            "HP": "9975",
+            "Poison": "1739",
+            "Paralysis": "2484",
+            "Sleep": "2484",
+            "Stun": "100",
+            "Attack": "407",
+            "Head": "3491",
+            "Stomach": "3491",
+            "Tail": "2493"
+        },
+        "6_Stars": {
+            "HP": "17431",
+            "Poison": "2134",
+            "Paralysis": "3049",
+            "Sleep": "2049",
+            "Stun": "100",
+            "Attack": "512",
+            "Head": "6100",
+            "Stomach": "6100",
+            "Tail": "4357"
+        },
+        "7_Stars": {
+            "HP": "29751",
+            "Poison": "2413",
+            "Paralysis": "3447",
+            "Sleep": "3447",
+            "Stun": "100",
+            "Attack": "615",
+            "Head": "10412",
+            "Stomach": "10412",
+            "Tail": "7437"
+        },
+        "8_Stars": {
+            "HP": "55801",
+            "Poison": "2707",
+            "Paralysis": "3868",
+            "Sleep": "3868",
+            "Stun": "100",
+            "Attack": "716",
+            "Head": "19530",
+            "Stomach": "19530",
+            "Tail": "13950"
+        },
+        "9_Stars": {
+            "HP": "118922",
+            "Poison": "3050",
+            "Paralysis": "4357",
+            "Sleep": "4357",
+            "Stun": "100",
+            "Attack": "833",
+            "Head": "41622",
+            "Stomach": "41622",
+            "Tail": "29730"
+        },
+        "10_Stars": {
+            "HP": "224115",
+            "Poison": "3378",
+            "Paralysis": "4825",
+            "Sleep": "4825",
+            "Stun": "100",
+            "Attack": "945",
+            "Head": "78440",
+            "Stomach": "78440",
+            "Tail": "56028"
+        },
+        "Habitat": "Volatile habitats",
+        "Weaknesses": "Thunder (150%), Dragon (150%), Poison",
+        "Breakable_Parts": "Head, Body, Tail (Cut)",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 140,
+                "Enraged": {
+                    "Sever": 130,
+                    "Blunt": 130,
+                    "Ranged": 130
+                }
+            },
+            "Neck": {
+                "Sever": 90,
+                "Blunt": 90,
+                "Ranged": 70,
+                "Enraged": {
+                    "Sever": 80,
+                    "Blunt": 80,
+                    "Ranged": 65
+                }
+            },
+            "Body": {
+                "Sever": 90,
+                "Blunt": 90,
+                "Ranged": 70,
+                "Enraged": {
+                    "Sever": 80,
+                    "Blunt": 80,
+                    "Ranged": 65
+                }
+            },
+            "Stomach": {
+                "Sever": 110,
+                "Blunt": 110,
+                "Ranged": 90,
+                "Enraged": {
+                    "Sever": 145,
+                    "Blunt": 145,
+                    "Ranged": 145
+                }
+            },
+            "Hindlegs": {
+                "Sever": 130,
+                "Blunt": 120,
+                "Ranged": 90,
+                "Enraged": {
+                    "Sever": 90,
+                    "Blunt": 90,
+                    "Ranged": 70
+                }
+            },
+            "Tail": {
+                "Sever": 120,
+                "Blunt": 100,
+                "Ranged": 70,
+                "Enraged": {
+                    "Sever": 90,
+                    "Blunt": 90,
+                    "Ranged": 65
+                }
+            }
+        },
+        "MV": {
+            "Rush_Bite": 44,
+            "Rush_Bite_Continuous": 58,
+            "Strong_Bite_In": 64,
+            "Strong_Bite_Out": 28,
+            "Sweep_Bite_Strong": 46,
+            "Sweep_Bite_Front_Foot": 28,
+            "Bite_Front_Foot": 28,
+            "Alignment_Bite": 28,
+            "Trample": 46,
+            "Rush_Jump": 34,
+            "Side_Tackle": 58,
+            "Tail_Roll": 34,
+            "Counter_Bite_Strong": 50,
+            "Rock_Throw_Head": 46,
+            "Rock_Throw_Body": 46,
+            "Rock_Throw_Rock": 52,
+            "Breath_Leak": 28,
+            "Breath": 72
+        },
+        "Drop_Material_By_Parts": {
+            "Deviljho_Scale": "Any",
+            "Deviljho_Hide": "Any",
+            "Deviljho_Tail": "Tail",
+            "Deviljho_Talon": "Body",
+            "Deviljho_Primehide": "Body",
+            "Deviljho_Scalp": "Head",
+            "Deviljho_Saliva": "Head"
+        }
+    }
+}

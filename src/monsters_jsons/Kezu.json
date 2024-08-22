@@ -1,0 +1,138 @@
+{
+    "Kezu": {
+        "4_Stars": {
+            "HP": "3392",
+            "Poison": "1299",
+            "Paralysis": "2413",
+            "Sleep": "1856",
+            "Stun": "100",
+            "Attack": "301",
+            "Head": "1356",
+            "L/R Hindlegs": "1017"
+        },
+        "5_Stars": {
+            "HP": "5534",
+            "Poison": "1654",
+            "Paralysis": "3072",
+            "Sleep": "2363",
+            "Stun": "100",
+            "Attack": "386",
+            "Head": "2213",
+            "L/R Hindlegs": "1660"
+        },
+        "6_Stars": {
+            "HP": "9925",
+            "Poison": "2079",
+            "Paralysis": "2861",
+            "Sleep": "2970",
+            "Stun": "100",
+            "Attack": "491",
+            "Head": "3970",
+            "L/R Hindlegs": "2977"
+        },
+        "7_Stars": {
+            "HP": "16329",
+            "Poison": "2355",
+            "Paralysis": "4373",
+            "Sleep": "3364",
+            "Stun": "100",
+            "Attack": "595",
+            "Head": "6531",
+            "L/R Hindlegs": "4898"
+        },
+        "8_Stars": {
+            "HP": "30313",
+            "Poison": "2646",
+            "Paralysis": "4914",
+            "Sleep": "3780",
+            "Stun": "100",
+            "Attack": "695",
+            "Head": "12125",
+            "L/R Hindlegs": "9093"
+        },
+        "9_Stars": {
+            "HP": "64223",
+            "Poison": "2986",
+            "Paralysis": "5545",
+            "Sleep": "4265",
+            "Stun": "100",
+            "Attack": "811",
+            "Head": "25689",
+            "L/R Hindlegs": "19266"
+        },
+        "10_Stars": {
+            "HP": "127520",
+            "Poison": "3310",
+            "Paralysis": "6147",
+            "Sleep": "4728",
+            "Stun": "100",
+            "Attack": "922",
+            "Head": "51008",
+            "L/R Hindlegs": "38256"
+        },
+        "Habitat": "Swamp",
+        "Weaknesses": "Fire, Poison",
+        "Breakable_Parts": "Head, Hindlegs",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 140
+            },
+            "Neck": {
+                "Sever": 140,
+                "Blunt": 135,
+                "Ranged": 135
+            },
+            "Body": {
+                "Sever": 130,
+                "Blunt": 130,
+                "Ranged": 70
+            },
+            "Hindlegs": {
+                "Sever": 100,
+                "Blunt": 80,
+                "Ranged": 80
+            },
+            "Broken_Hindlegs": {
+                "Sever": 130,
+                "Blunt": 100,
+                "Ranged": 130
+            },
+            "Wings": {
+                "Sever": 90,
+                "Blunt": 90,
+                "Ranged": 70
+            },
+            "Tail": {
+                "Sever": 80,
+                "Blunt": 80,
+                "Ranged": 70
+            }
+        },
+        "MV": {
+            "Ground_Bite": 21,
+            "Ground_Breath": 52,
+            "Ground_Breath_Bomb": 42,
+            "Ground_Breath_Shower": 42,
+            "Ground_Charge_Attack": 42,
+            "Ground_Charge_Pounce": 42,
+            "Ground_Charge_Walk_Bite": 35,
+            "Ground_Neck_Stretch_Bite": 28,
+            "Ground_Neck_Stretch_Bite_Walk": 32,
+            "Ground_Pounce": 32,
+            "Ground_Straight_Bite": 24,
+            "Ground_Tail_Roll": 31,
+            "Ground_Walk_Bite": 25
+        },
+        "Drop_Material_By_Parts": {
+            "Suspicious_Fang": "Head",
+            "Flabby_Hide": "Any",
+            "Pale_Extract": "Head",
+            "Pale_Bone": "Hindlegs",
+            "Flabby_Primehide": "Hindlegs",
+            "Pale_Primebone": "Hindlegs",
+            "Wyvern_Gem_Shard": "Head"
+        }
+    }
+}

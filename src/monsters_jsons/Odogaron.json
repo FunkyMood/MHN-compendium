@@ -1,0 +1,153 @@
+{
+    "Odogaron": {
+        "4_Stars": {
+            "HP": "3227",
+            "Poison": "3825",
+            "Paralysis": "1339",
+            "Sleep": "1913",
+            "Stun": "100",
+            "Attack": "311",
+            "Head": "3227",
+            "Forelegs": "1290",
+            "Hindlegs": "968",
+            "Tail": "968"
+        },
+        "5_Stars": {
+            "HP": "5310",
+            "Poison": "4847",
+            "Paralysis": "1697",
+            "Sleep": "2424",
+            "Stun": "100",
+            "Attack": "397",
+            "Head": "2655",
+            "Forelegs": "2124",
+            "Hindlegs": "1593",
+            "Tail": "1593"
+        },
+        "6_Stars": {
+            "HP": "9392",
+            "Poison": "6019",
+            "Paralysis": "2107",
+            "Sleep": "3009",
+            "Stun": "100",
+            "Attack": "501",
+            "Head": "4696",
+            "Forelegs": "3756",
+            "Hindlegs": "2817",
+            "Tail": "2817"
+        },
+        "7_Stars": {
+            "HP": "14514",
+            "Poison": "6728",
+            "Paralysis": "2355",
+            "Sleep": "3364",
+            "Stun": "100",
+            "Attack": "595",
+            "Head": "7257",
+            "Forelegs": "5805",
+            "Hindlegs": "4354",
+            "Tail": "4354"
+        },
+        "8_Stars": {
+            "HP": "29416",
+            "Poison": "7648",
+            "Paralysis": "2677",
+            "Sleep": "3824",
+            "Stun": "100",
+            "Attack": "706",
+            "Head": "14708",
+            "Forelegs": "11766",
+            "Hindlegs": "8824",
+            "Tail": "8824"
+        },
+        "9_Stars": {
+            "HP": "5707",
+            "Poison": "8530",
+            "Paralysis": "2986",
+            "Sleep": "4265",
+            "Stun": "100",
+            "Attack": "811",
+            "Head": "28543",
+            "Forelegs": "22834",
+            "Hindlegs": "17126",
+            "Tail": "17126"
+        },
+        "10_Stars": {
+            "HP": "113352",
+            "Poison": "9457",
+            "Paralysis": "3310",
+            "Sleep": "4728",
+            "Stun": "100",
+            "Attack": "922",
+            "Head": "56676",
+            "Forelegs": "45340",
+            "Hindlegs": "34005",
+            "Tail": "34005"
+        },
+        "Habitat": "Desert Swamp",
+        "Weaknesses": "Ice Paralysis",
+        "Breakable_Parts": "Head, Forelegs, Tail (Cut), Hindlegs",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 140
+            },
+            "Neck": {
+                "Sever": 100,
+                "Blunt": 110,
+                "Ranged": 80
+            },
+            "Body": {
+                "Sever": 90,
+                "Blunt": 90,
+                "Ranged": 70
+            },
+            "Back": {
+                "Sever": 90,
+                "Blunt": 90,
+                "Ranged": 70
+            },
+            "Forelegs": {
+                "Sever": 130,
+                "Blunt": 120,
+                "Ranged": 95
+            },
+            "Hindlegs": {
+                "Sever": 110,
+                "Blunt": 100,
+                "Ranged": 80
+            },
+            "Tail": {
+                "Sever": 110,
+                "Blunt": 100,
+                "Ranged": 80
+            }
+        },
+        "MV": {
+            "Bite": 22,
+            "Rotate_Around_Bite": 34,
+            "Claw_Attack": 22,
+            "Claw_Attack_Bleeding": 22,
+            "Swing_Down_Claw": 42,
+            "Swing_Down_Claw_Bleeding": 42,
+            "Break_Through": 50,
+            "Break_Through_Sweep": 50,
+            "Scratch": 28,
+            "Scratch_Bleeding": 28,
+            "Pounce_Scratch": 43,
+            "Pounce_Scratch_Bleeding": 43,
+            "Tail_Attack": 22,
+            "Tail_Swing": 50
+        },
+        "Drop_Material_By_Parts": {
+            "Odogaron_Scale": "Any",
+            "Odogaron_Sinew": "Any",
+            "Odogaron_Tail": "Tail",
+            "Odogaron_Claw": "Forelegs",
+            "Odogaron_Primescale": "Head",
+            "Odogaron_Plate": "Tail",
+            "Wyvern_Gem_Shard": "Forelegs"
+        }
+    }
+}

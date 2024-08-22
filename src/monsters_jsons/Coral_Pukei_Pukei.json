@@ -1,0 +1,128 @@
+{
+    "Coral_Pukei_Pukei": {
+        "5_Stars": {
+            "HP": "10438",
+            "Poison": "2606",
+            "Paralysis": "2606",
+            "Sleep": "2606",
+            "Stun": "100",
+            "Attack": "428",
+            "Head": "4697",
+            "Back": "3131",
+            "L/R Wing": "3131",
+            "Tail": "3653"
+        },
+        "6_Stars": {
+            "HP": "16773",
+            "Poison": "3128",
+            "Paralysis": "3128",
+            "Sleep": "3128",
+            "Stun": "100",
+            "Attack": "533",
+            "Head": "7547",
+            "Back": "5031",
+            "L/R Wing": "5031",
+            "Tail": "5870"
+        },
+        "7_Stars": {
+            "HP": "29799",
+            "Poison": "3530",
+            "Paralysis": "3530",
+            "Sleep": "3530",
+            "Stun": "100",
+            "Attack": "635",
+            "Head": "13409",
+            "Back": "8939",
+            "L/R Wing": "8939",
+            "Tail": "10429"
+        },
+        "8_Stars": {
+            "HP": "56492",
+            "Poison": "3956",
+            "Paralysis": "3956",
+            "Sleep": "3956",
+            "Stun": "100",
+            "Attack": "737",
+            "Head": "25421",
+            "Back": "16947",
+            "L/R Wing": "16947",
+            "Tail": "19772"
+        },
+        "9_Stars": {
+            "HP": "121121",
+            "Poison": "4403",
+            "Paralysis": "4403",
+            "Sleep": "4403",
+            "Stun": "100",
+            "Attack": "844",
+            "Head": "54504",
+            "Back": "36336",
+            "L/R Wing": "36336",
+            "Tail": "42392"
+        },
+        "10_Stars": {
+            "HP": "215822",
+            "Poison": "4874",
+            "Paralysis": "4874",
+            "Sleep": "4874",
+            "Stun": "100",
+            "Attack": "956",
+            "Head": "97119",
+            "Back": "64746",
+            "L/R Wing": "64746",
+            "Tail": "75537"
+        },
+        "Habitat": "Forest Swamp",
+        "Weaknesses": "Ice, Poison",
+        "Breakable_Parts": "Head, Back, Wings, Tail (Cut)",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 140
+            },
+            "Back": {
+                "Sever": 90,
+                "Blunt": 90,
+                "Ranged": 65
+            },
+            "Wings": {
+                "Sever": 110,
+                "Blunt": 100,
+                "Ranged": 90
+            },
+            "Legs": {
+                "Sever": 90,
+                "Blunt": 90,
+                "Ranged": 65
+            },
+            "Tail": {
+                "Sever": 110,
+                "Blunt": 100,
+                "Ranged": 70
+            }
+        },
+        "MV": {
+            "Tail_Roll": 28,
+            "Rush_Aerial": 31,
+            "Water_Pressure_Breath": 28,
+            "Water_Pressure_Breath_Split": 28,
+            "Water_Breath_Rampage": 28,
+            "Water_Breath_Back_Jump": 28,
+            "Water_Cannon": 25,
+            "Water_Cannon_Sweep": 25,
+            "Water_Cannon_Sweep_Strong": 28,
+            "Water_Cannon_Aerial_Spiral": 28,
+            "Water_Cannon_Pumping": 28
+        },
+        "Drop_Material_By_Parts": {
+            "Coral_Pukei_Pukei_Scale": "Any",
+            "Coral_Pukei_Pukei_Hide": "Any",
+            "Coral_Pukei_Pukei_Tail": "Tail",
+            "Coral_Pukei_Pukei_Sac": "Head",
+            "Coral_Pukei_Pukei_Quill": "Wings",
+            "Coral_Pukei_Pukei_Primescale": "Head",
+            "Wyvern_Gem_Shard": "Tail"
+        }
+    }
+}

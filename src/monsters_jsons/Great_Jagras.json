@@ -1,0 +1,181 @@
+{
+    "Great_Jagras": {
+        "1_Star": {
+            "HP": "544",
+            "Poison": "383",
+            "Paralysis": "383",
+            "Sleep": "268",
+            "Stun": "70",
+            "Attack": "39",
+            "Head": "217",
+            "Forelegs": "217",
+            "Stomach": "217"
+        },
+        "2_Stars": {
+            "HP": "1597",
+            "Poison": "639",
+            "Paralysis": "639",
+            "Sleep": "447",
+            "Stun": "70",
+            "Attack": "85",
+            "Head": "638",
+            "Forelegs": "638",
+            "Stomach": "638"
+        },
+        "3_Stars": {
+            "HP": "2457",
+            "Poison": "1188",
+            "Paralysis": "1188",
+            "Sleep": "832",
+            "Stun": "70",
+            "Attack": "186",
+            "Head": "982",
+            "Forelegs": "982",
+            "Stomach": "982"
+        },
+        "4_Stars": {
+            "HP": "3680",
+            "Poison": "1645",
+            "Paralysis": "1645",
+            "Sleep": "1151",
+            "Stun": "70",
+            "Attack": "265",
+            "Head": "1472",
+            "Forelegs": "1472",
+            "Stomach": "1472"
+        },
+        "5_Stars": {
+            "HP": "6456",
+            "Poison": "2250",
+            "Paralysis": "2250",
+            "Sleep": "1757",
+            "Stun": "70",
+            "Attack": "367",
+            "Head": "2582",
+            "Forelegs": "2582",
+            "Stomach": "2582"
+        },
+        "6_Stars": {
+            "HP": "10555",
+            "Poison": "2727",
+            "Paralysis": "2727",
+            "Sleep": "1909",
+            "Stun": "70",
+            "Attack": "449",
+            "Head": "4222",
+            "Forelegs": "4222",
+            "Stomach": "4222"
+        },
+        "7_Stars": {
+            "HP": "17556",
+            "Poison": "3246",
+            "Paralysis": "3246",
+            "Sleep": "2272",
+            "Stun": "70",
+            "Attack": "564",
+            "Head": "7022",
+            "Forelegs": "7022",
+            "Stomach": "7022"
+        },
+        "8_Stars": {
+            "HP": "32101",
+            "Poison": "3655",
+            "Paralysis": "3655",
+            "Sleep": "2559",
+            "Stun": "70",
+            "Attack": "665",
+            "Head": "12840",
+            "Forelegs": "12840",
+            "Stomach": "12840"
+        },
+        "9_Stars": {
+            "HP": "67794",
+            "Poison": "4219",
+            "Paralysis": "4219",
+            "Sleep": "2953",
+            "Stun": "70",
+            "Attack": "800",
+            "Head": "27117",
+            "Forelegs": "27117",
+            "Stomach": "27117"
+        },
+        "10_Stars": {
+            "HP": "139118",
+            "Poison": "4680",
+            "Paralysis": "4680",
+            "Sleep": "3276",
+            "Stun": "70",
+            "Attack": "910",
+            "Head": "55647",
+            "Forelegs": "55647",
+            "Stomach": "55647"
+        },
+        "Habitat": "Forest, Swamp, Desert",
+        "Weaknesses": "Fire, Poison, Sleep",
+        "Breakable_Parts": "Head, Inflated Stomach, Claws",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 130,
+                "Blunt": 135,
+                "Ranged": 130,
+                "Weakness Exploit": true
+            },
+            "Body": {
+                "Sever": 90,
+                "Blunt": 100,
+                "Ranged": 70
+            },
+            "Stomach": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 140,
+                "Weakness Exploit": true
+            },
+            "Forelegs": {
+                "Sever": 120,
+                "Blunt": 110,
+                "Ranged": 90
+            },
+            "Hindlegs": {
+                "Sever": 100,
+                "Blunt": 90,
+                "Ranged": 70
+            },
+            "Tail": {
+                "Sever": 100,
+                "Blunt": 90,
+                "Ranged": 70
+            }
+        },
+        "MV": {
+            "Slim": {
+                "Bite": 28,
+                "Strong_Bite": 34,
+                "Dash_Bite": 40,
+                "Dash_Bite_Body": 34,
+                "Claw": 22,
+                "Strong_Bite_Body": 22,
+                "Tail_Whip": 22,
+                "Punch_Super": 54
+            },
+            "Fat": {
+                "Rolling": 34,
+                "Body_Slam": 46,
+                "Claw": 28,
+                "Tail_Whip": 28,
+                "Vomiting_Breath": 34,
+                "Vomiting_Breath_Super_Near": 54,
+                "Vomiting_Breath_Super_Far": 54
+            }
+        },
+        "Drop_Material_By_Parts": {
+            "Great_Jagras_Scale": "Any",
+            "Great_Jagras_Hide": "Any",
+            "Great_Jagras_Claw": "Forelegs",
+            "Great_Jagras_Mane": "Head",
+            "Great_Jagras_Primescale": "Forelegs",
+            "Fanged_Wyvern_Gem": "Head",
+            "Wyvern_Gem_Shard": "Forelegs"
+        }
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "Radobaan": {
+        "2_Stars": {
+            "HP": "1601",
+            "Poison": "1176",
+            "Paralysis": "905",
+            "Sleep": "1176",
+            "Stun": "100",
+            "Attack": "135",
+            "Head": "400",
+            "Body": "400",
+            "L/R_Hindlegs": "240",
+            "Tail": "320"
+        },
+        "3_Stars": {
+            "HP": "2444",
+            "Poison": "1802",
+            "Paralysis": "1386",
+            "Sleep": "1802",
+            "Stun": "100",
+            "Attack": "221",
+            "Head": "611",
+            "Body": "611",
+            "L/R_Hindlegs": "366",
+            "Tail": "488"
+        },
+        "4_Stars": {
+            "HP": "3581",
+            "Poison": "2413",
+            "Paralysis": "1856",
+            "Sleep": "2413",
+            "Stun": "100",
+            "Attack": "301",
+            "Head": "895",
+            "Body": "895",
+            "L/R_Hindlegs": "537",
+            "Tail": "716"
+        },
+        "5_Stars": {
+            "HP": "5842",
+            "Poison": "3072",
+            "Paralysis": "2363",
+            "Sleep": "3072",
+            "Stun": "100",
+            "Attack": "386",
+            "Head": "1460",
+            "Body": "1460",
+            "L/R_Hindlegs": "876",
+            "Tail": "1168"
+        },
+        "6_Stars": {
+            "HP": "10477",
+            "Poison": "3861",
+            "Paralysis": "2970",
+            "Sleep": "3861",
+            "Stun": "100",
+            "Attack": "491",
+            "Head": "2619",
+            "Body": "2619",
+            "L/R_Hindlegs": "1571",
+            "Tail": "2095"
+        },
+        "7_Stars": {
+            "HP": "17236",
+            "Poison": "4373",
+            "Paralysis": "3364",
+            "Sleep": "4373",
+            "Stun": "100",
+            "Attack": "564",
+            "Head": "4309",
+            "Body": "4309",
+            "L/R_Hindlegs": "2585",
+            "Tail": "3447"
+        },
+        "8_Stars": {
+            "HP": "31997",
+            "Poison": "4914",
+            "Paralysis": "3780",
+            "Sleep": "4914",
+            "Stun": "100",
+            "Attack": "695",
+            "Head": "7999",
+            "Body": "7999",
+            "L/R_Hindlegs": "4799",
+            "Tail": "6399"
+        },
+        "9_Stars": {
+            "HP": "67791",
+            "Poison": "5545",
+            "Paralysis": "4265",
+            "Sleep": "5545",
+            "Stun": "100",
+            "Attack": "811",
+            "Head": "16947",
+            "Body": "16497",
+            "L/R_Hindlegs": "10168",
+            "Tail": "13558"
+        },
+        "10_Stars": {
+            "HP": "134605",
+            "Poison": "6147",
+            "Paralysis": "4728",
+            "Sleep": "6147",
+            "Stun": "100",
+            "Attack": "922",
+            "Head": "33651",
+            "Body": "33651",
+            "L/R_Hindlegs": "20190",
+            "Tail": "26921"
+        },
+        "Habitat": "Desert, Swamp",
+        "Weaknesses": "Ice, Dragon",
+        "Breakable_Parts": "Head, Body, Hindlegs, Tail_cut",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 70,
+                "Blunt": 100,
+                "Ranged": 55
+            },
+            "Broken_Head": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 140
+            },
+            "Neck": {
+                "Sever": 90,
+                "Blunt": 90,
+                "Ranged": 70
+            },
+            "Body": {
+                "Sever": 70,
+                "Blunt": 90,
+                "Ranged": 55
+            },
+            "Broken_Body": {
+                "Sever": 125,
+                "Blunt": 130,
+                "Ranged": 95
+            },
+            "Hindlegs": {
+                "Sever": 70,
+                "Blunt": 90,
+                "Ranged": 55
+            },
+            "Broken_Hindlegs": {
+                "Sever": 130,
+                "Blunt": 125,
+                "Ranged": 130
+            },
+            "Tail": {
+                "Sever": 120,
+                "Blunt": 110,
+                "Ranged": 90
+            }
+        },
+        "MV": {
+            "Bone": 10,
+            "Stomp": 58,
+            "Side_Tackle": 31,
+            "Jaw_Attack": 22,
+            "Double_Swing_Jaw": 40,
+            "Rolling": 46,
+            "Rolling_Stomp": 60,
+            "Rolling_Tail": 19,
+            "Horizontal_Rolling_Attack": 40,
+            "Bind_Voice_Jaw": 22,
+            "Tail_Roll": 31,
+            "Hypnotic_Gas": 0
+        },
+        "Drop_Material_By_Parts": {
+            "Radobaan_Scale": "Any",
+            "Radobaan_Shell": "Any",
+            "Radobaan_Tail": "Tail",
+            "Radobaan_Oilshell": "Head",
+            "Radobaan_Primescale": "Hindlegs",
+            "Radobaan_Marrow": "Body",
+            "Wyvern_Gem_Shard": "Head"
+        }
+    }
+}

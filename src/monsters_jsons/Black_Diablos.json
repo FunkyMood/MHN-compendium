@@ -1,0 +1,145 @@
+{
+    "Black_Diablos": {
+        "5_Stars": {
+            "HP": "9564",
+            "Poison": "3545",
+            "Paralysis": "1909",
+            "Sleep": "2727",
+            "Stun": "130",
+            "Attack": "449",
+            "Back": "4782",
+            "Right_Horn": "3825",
+            "Left_Horn": "7651",
+            "Tail": "2391"
+        },
+        "6_Stars": {
+            "HP": "16009",
+            "Poison": "4168",
+            "Paralysis": "2244",
+            "Sleep": "3206",
+            "Stun": "130",
+            "Attack": "553",
+            "Back": "8004",
+            "Right_Horn": "6403",
+            "Left_Horn": "12807",
+            "Tail": "4002"
+        },
+        "7_Stars": {
+            "HP": "29020",
+            "Poison": "4752",
+            "Paralysis": "2259",
+            "Sleep": "3655",
+            "Stun": "130",
+            "Attack": "615",
+            "Back": "14510",
+            "Right_Horn": "11608",
+            "Left_Horn": "23216",
+            "Tail": "7255"
+        },
+        "8_Stars": {
+            "HP": "55301",
+            "Poison": "5313",
+            "Paralysis": "2861",
+            "Sleep": "4087",
+            "Stun": "130",
+            "Attack": "769",
+            "Back": "27650",
+            "Right_Horn": "22120",
+            "Left_Horn": "44240",
+            "Tail": "13825"
+        },
+        "9_Stars": {
+            "HP": "112115",
+            "Poison": "5904",
+            "Paralysis": "3179",
+            "Sleep": "4542",
+            "Stun": "130",
+            "Attack": "877",
+            "Back": "56057",
+            "Right_Horn": "44846",
+            "Left_Horn": "89692",
+            "Tail": "28082"
+        },
+        "10_Stars": {
+            "HP": "187671",
+            "Poison": "6462",
+            "Paralysis": "3479",
+            "Sleep": "4970",
+            "Stun": "130",
+            "Attack": "979",
+            "Back": "93835",
+            "Right_Horn": "75068",
+            "Left_Horn": "150136",
+            "Tail": "46917"
+        },
+        "Habitat": "Desert",
+        "Weaknesses": "Ice, Paralysis",
+        "Breakable_Parts": "Horns, Back, Wings, Tail_cut",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 105,
+                "Blunt": 130,
+                "Ranged": 80
+            },
+            "Horns": {
+                "Sever": 75,
+                "Blunt": 95,
+                "Ranged": 60
+            },
+            "Body": {
+                "Sever": 135,
+                "Blunt": 140,
+                "Ranged": 85
+            },
+            "Back": {
+                "Sever": 75,
+                "Blunt": 95,
+                "Ranged": 60
+            },
+            "Wings": {
+                "Sever": 105,
+                "Blunt": 85,
+                "Ranged": 130
+            },
+            "Legs": {
+                "Sever": 95,
+                "Blunt": 95,
+                "Ranged": 75
+            },
+            "Tail": {
+                "Sever": 130,
+                "Blunt": 75,
+                "Ranged": 75
+            },
+            "Tail_Tip": {
+                "Sever": 75,
+                "Blunt": 85,
+                "Ranged": 50
+            }
+        },
+        "MV": {
+            "Ground_Rush": 63,
+            "Ground_Rush_Strong": 72,
+            "Ground_Mole_Attack": 63,
+            "Ground_Mole_Attack_Strong_Body": 49,
+            "Ground_Mole_Attack_Strong_Pop": 63,
+            "Ground_Horn_Toss": 53,
+            "Ground_Tail_Swing": 49,
+            "Ground_Horn_Swing_Horn": 52,
+            "Ground_Horn_Swing_Tail": 37,
+            "Ground_Horn_Swing_Foot": 21,
+            "Ground_Tail_Strike": 49,
+            "Ground_Side_Tackle_Body": 49,
+            "Ground_Side_Tackle_Tail": 21
+        },
+        "Drop_Material_By_Parts": {
+            "Black_Diablos_Shell": "Any",
+            "Black_Diablos_Fang": "Any",
+            "Black_Diablos_Tailcase": "Tail",
+            "Black_Diablos_Ridge": "Back",
+            "Black_Diablos_Primeshell": "Back",
+            "Black_Diablos_Marrow": "Back, Tail",
+            "Wyvern_Gem_Shard": "Horns"
+        }
+    }
+}

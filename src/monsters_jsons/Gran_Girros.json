@@ -1,0 +1,156 @@
+{
+    "Gran_Girros": {
+        "2_Stars": {
+            "HP": "1685",
+            "Poison": "1176",
+            "Paralysis": "1176",
+            "Sleep": "633",
+            "Stun": "100",
+            "Attack": "135",
+            "Head": "1011",
+            "Forelegs": "926",
+            "Tail": "337"
+        },
+        "3_Stars": {
+            "HP": "2573",
+            "Poison": "1802",
+            "Paralysis": "1802",
+            "Sleep": "970",
+            "Stun": "100",
+            "Attack": "221",
+            "Head": "1543",
+            "Forelegs": "1415",
+            "Tail": "514"
+        },
+        "4_Stars": {
+            "HP": "3769",
+            "Poison": "2413",
+            "Paralysis": "2413",
+            "Sleep": "1299",
+            "Stun": "100",
+            "Attack": "301",
+            "Head": "2261",
+            "Forelegs": "2072",
+            "Tail": "753"
+        },
+        "5_Stars": {
+            "HP": "6149",
+            "Poison": "3072",
+            "Paralysis": "3072",
+            "Sleep": "1654",
+            "Stun": "100",
+            "Attack": "386",
+            "Head": "3689",
+            "Forelegs": "3381",
+            "Tail": "1229"
+        },
+        "6_Stars": {
+            "HP": "11028",
+            "Poison": "3861",
+            "Paralysis": "3861",
+            "Sleep": "2079",
+            "Stun": "100",
+            "Attack": "491",
+            "Head": "6616",
+            "Forelegs": "6065",
+            "Tail": "2205"
+        },
+        "7_Stars": {
+            "HP": "18143",
+            "Poison": "4373",
+            "Paralysis": "4373",
+            "Sleep": "2355",
+            "Stun": "100",
+            "Attack": "564",
+            "Head": "10885",
+            "Forelegs": "9978",
+            "Tail": "3628"
+        },
+        "8_Stars": {
+            "HP": "33681",
+            "Poison": "4914",
+            "Paralysis": "4914",
+            "Sleep": "2646",
+            "Stun": "100",
+            "Attack": "695",
+            "Head": "20208",
+            "Forelegs": "18524",
+            "Tail": "6736"
+        },
+        "9_Stars": {
+            "HP": "71359",
+            "Poison": "5545",
+            "Paralysis": "5545",
+            "Sleep": "2986",
+            "Stun": "100",
+            "Attack": "811",
+            "Head": "42815",
+            "Forelegs": "39247",
+            "Tail": "14271"
+        },
+        "10_Stars": {
+            "HP": "141689",
+            "Poison": "6147",
+            "Paralysis": "6147",
+            "Sleep": "3310",
+            "Stun": "100",
+            "Attack": "922",
+            "Head": "85013",
+            "Forelegs": "77928",
+            "Tail": "28337"
+        },
+        "Habitat": "Forest, Swamp",
+        "Weaknesses": "Water, Sleep",
+        "Breakable_Parts": "Head, Claws, Tail_Cut",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 140
+            },
+            "Body": {
+                "Sever": 90,
+                "Blunt": 100,
+                "Ranged": 70
+            },
+            "Forelegs": {
+                "Sever": 110,
+                "Blunt": 110,
+                "Ranged": 90
+            },
+            "Hindlegs": {
+                "Sever": 100,
+                "Blunt": 100,
+                "Ranged": 80
+            },
+            "Tail": {
+                "Sever": 120,
+                "Blunt": 110,
+                "Ranged": 90
+            }
+        },
+        "MV": {
+            "Side_Tackle_Left": 32,
+            "Side_Tackle_Right": 32,
+            "Tail_Whip": 22,
+            "Continuous_Bite": 34,
+            "Rush_Bite_Head": 22,
+            "Rush_Bite_Body": 25,
+            "Bite_Head": 34,
+            "Bite_Body": 25,
+            "Step_Bite": 22,
+            "Kill_Bite_Head": 46,
+            "Kill_Bite_Body": 46,
+            "Paralysis_Breath": 22
+        },
+        "Drop_Material_By_Parts": {
+            "Great_Girros_Scale": "Forelegs, Tail",
+            "Great_Girros_Fang": "Head",
+            "Great_Girros_Tail": "Tail",
+            "Great_Girros_Hood": "Head",
+            "Great_Girros_Primescale": "Forelegs",
+            "Great_Girros_Primefang": "Head",
+            "Wyvern_Gem_Shard": "Head"
+        }
+    }
+}

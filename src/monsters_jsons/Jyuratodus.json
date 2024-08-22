@@ -1,0 +1,166 @@
+{
+    "Jyuratodus": {
+        "3_Stars": {
+            "HP": "2525",
+            "Poison": "1937",
+            "Paralysis": "1490",
+            "Sleep": "1937",
+            "Stun": "70",
+            "Attack": "239",
+            "Head": "1010",
+            "Body": "757",
+            "L_R_Hindlegs": "1010",
+            "Tail": "505"
+        },
+        "4_Stars": {
+            "HP": "2824",
+            "Poison": "2486",
+            "Paralysis": "1913",
+            "Sleep": "2486",
+            "Stun": "70",
+            "Attack": "311",
+            "Head": "1129",
+            "Body": "847",
+            "L_R_Hindlegs": "1129",
+            "Tail": "564"
+        },
+        "5_Stars": {
+            "HP": "4646",
+            "Poison": "3151",
+            "Paralysis": "2424",
+            "Sleep": "3151",
+            "Stun": "70",
+            "Attack": "397",
+            "Head": "1858",
+            "Body": "1393",
+            "L_R_Hindlegs": "1858",
+            "Tail": "929"
+        },
+        "6_Stars": {
+            "HP": "8218",
+            "Poison": "3912",
+            "Paralysis": "3009",
+            "Sleep": "3912",
+            "Stun": "70",
+            "Attack": "501",
+            "Head": "3287",
+            "Body": "2465",
+            "L_R_Hindlegs": "3287",
+            "Tail": "1643"
+        },
+        "7_Stars": {
+            "HP": "13788",
+            "Poison": "4427",
+            "Paralysis": "3406",
+            "Sleep": "4427",
+            "Stun": "70",
+            "Attack": "595",
+            "Head": "5515",
+            "Body": "4136",
+            "L_R_Hindlegs": "5515",
+            "Tail": "2757"
+        },
+        "8_Stars": {
+            "HP": "25739",
+            "Poison": "4971",
+            "Paralysis": "3824",
+            "Sleep": "4971",
+            "Stun": "70",
+            "Attack": "706",
+            "Head": "10295",
+            "Body": "7721",
+            "L_R_Hindlegs": "10295",
+            "Tail": "5147"
+        },
+        "9_Stars": {
+            "HP": "54706",
+            "Poison": "5605",
+            "Paralysis": "4311",
+            "Sleep": "5605",
+            "Stun": "70",
+            "Attack": "811",
+            "Head": "21882",
+            "Body": "16411",
+            "L_R_Hindlegs": "21882",
+            "Tail": "10941"
+        },
+        "10_Stars": {
+            "HP": "105620",
+            "Poison": "6210",
+            "Paralysis": "4777",
+            "Sleep": "6210",
+            "Stun": "70",
+            "Attack": "933",
+            "Head": "42248",
+            "Body": "31686",
+            "L_R_Hindlegs": "42248",
+            "Tail": "21124"
+        },
+        "Habitat": "Swamp",
+        "Weaknesses": "Water_on_mud, Thunder",
+        "Breakable_Parts": "Head, Body, Hindlegs, Tail",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 140
+            },
+            "Neck": {
+                "Sever": 110,
+                "Blunt": 120,
+                "Ranged": 90
+            },
+            "Body": {
+                "Sever": 100,
+                "Blunt": 110,
+                "Ranged": 80
+            },
+            "Back": {
+                "Sever": 80,
+                "Blunt": 90,
+                "Ranged": 65
+            },
+            "Fins": {
+                "Sever": 80,
+                "Blunt": 80,
+                "Ranged": 95
+            },
+            "Hindlegs": {
+                "Sever": 90,
+                "Blunt": 100,
+                "Ranged": 70
+            },
+            "Tail": {
+                "Sever": 135,
+                "Blunt": 130,
+                "Ranged": 130
+            }
+        },
+        "MV": {
+            "Ground_Rush": 47,
+            "Ground_Bite": 23,
+            "Ground_Tail_Roll": 33,
+            "Projectile_Breath_Burst": 23,
+            "Projectile_Ground_Breath": 17,
+            "Diving_Rush": 47,
+            "Diving_Assault_Attack": 58,
+            "Diving_Assault_Attack_Land": 23,
+            "Diving_Bite": 23,
+            "Diving_Bite_Double_Bite": 33,
+            "Diving_Bite_Double_Body": 23,
+            "Diving_Tail_Attack_1": 23,
+            "Diving_Tail_Attack_2": 39,
+            "Projectile_Diving_Breath_Double": 17,
+            "Projectile_Diving_Breath_Triple": 17
+        },
+        "Drop_Material_By_Parts": {
+            "Jyuratodus_Shell": "Any",
+            "Jyuratodus_Scale": "Any",
+            "Jyuratodus_Fang": "Head",
+            "Jyuratodus_Fin": "Body",
+            "Jyuratodus_Primescale": "Body",
+            "Jyuratodus_Primeshell": "Tail",
+            "Wyvern_Gem_Shard": "Head"
+        }
+    }
+}

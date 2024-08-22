@@ -1,0 +1,257 @@
+{
+    "Zinogre": {
+        "Hunt_a_thons": {
+            "5_Stars": {
+                "HP": "14962",
+                "Poison": "3230",
+                "Paralysis": "3230",
+                "Sleep": "2484",
+                "Stun": "100",
+                "Attack": "407",
+                "Right_Horn": "5984",
+                "Left_Horn": "11969",
+                "Forelegs": "5984",
+                "Back": "5984",
+                "Tail": "5236"
+            },
+            "6_Stars": {
+                "HP": "26147",
+                "Poison": "3963",
+                "Paralysis": "3963",
+                "Sleep": "3049",
+                "Stun": "100",
+                "Attack": "512",
+                "Right_Horn": "10458",
+                "Left_Horn": "20917",
+                "Forelegs": "10458",
+                "Back": "10458",
+                "Tail": "9151"
+            },
+            "7_Stars": {
+                "HP": "44626",
+                "Poison": "4481",
+                "Paralysis": "4481",
+                "Sleep": "3447",
+                "Stun": "100",
+                "Attack": "615",
+                "Right_Horn": "17850",
+                "Left_Horn": "35700",
+                "Forelegs": "17850",
+                "Back": "17850",
+                "Tail": "15619"
+            },
+            "8_Stars": {
+                "HP": "83702",
+                "Poison": "5028",
+                "Paralysis": "5028",
+                "Sleep": "3868",
+                "Stun": "100",
+                "Attack": "716",
+                "Right_Horn": "33480",
+                "Left_Horn": "66961",
+                "Forelegs": "33480",
+                "Back": "33480",
+                "Tail": "29295"
+            },
+            "9_Stars": {
+                "HP": "164118",
+                "Poison": "5605",
+                "Paralysis": "5605",
+                "Sleep": "4311",
+                "Stun": "100",
+                "Attack": "822",
+                "Right_Horn": "65647",
+                "Left_Horn": "131294",
+                "Forelegs": "65647",
+                "Back": "65647",
+                "Tail": "57441"
+            }
+        },
+        "Field": {
+            "5_Stars": {
+            "HP": "7993 HP",
+            "Poison": "3309",
+            "Paralysis": "3309",
+            "Sleep": "2545",
+            "Stun": "100",
+            "Attack": "418",
+            "Right_Horn": "3197 HP",
+            "Left_Horn": "6394 HP",
+            "Forelegs": "3197 HP",
+            "Back": "3197 HP",
+            "Tail": "2797 HP"
+            },
+            "6_Stars": {
+                "HP": "13821 HP",
+                "Poison": "4015",
+                "Paralysis": "4015",
+                "Sleep": "3088",
+                "Stun": "100",
+                "Attack": "522",
+                "Right_Horn": "5528 HP",
+                "Left_Horn": "11056 HP",
+                "Forelegs": "5528 HP",
+                "Back": "5528 HP",
+                "Tail": "4837 HP"
+            },
+            "7_Stars": {
+                "HP": "23945 HP",
+                "Poison": "4535",
+                "Paralysis": "4535",
+                "Sleep": "3489",
+                "Stun": "100",
+                "Attack": "625",
+                "Right_Horn": "9578 HP",
+                "Left_Horn": "19156 HP",
+                "Forelegs": "9578 HP",
+                "Back": "9578 HP",
+                "Tail": "8380 HP"
+            },
+            "8_Stars": {
+                "HP": "45094 HP",
+                "Poison": "5085",
+                "Paralysis": "5085",
+                "Sleep": "3912",
+                "Stun": "100",
+                "Attack": "727",
+                "Right_Horn": "18037 HP",
+                "Left_Horn": "36075 HP",
+                "Forelegs": "18037 HP",
+                "Back": "18037 HP",
+                "Tail": "15782 HP"
+            },
+            "9_Stars": {
+                "HP": "96324 HP",
+                "Poison": "5724",
+                "Paralysis": "5724",
+                "Sleep": "4403",
+                "Stun": "100",
+                "Attack": "844",
+                "Right_Horn": "38529 HP",
+                "Left_Horn": "77059 HP",
+                "Forelegs": "38529 HP",
+                "Back": "38529 HP",
+                "Tail": "33713 HP"
+            },
+            "10_Stars": {
+                "HP": "177743 HP",
+                "Poison": "6336",
+                "Paralysis": "6336",
+                "Sleep": "4874",
+                "Stun": "100",
+                "Attack": "956",
+                "Right_Horn": "71097 HP",
+                "Left_Horn": "142194 HP",
+                "Forelegs": "71097 HP",
+                "Back": "71097 HP",
+                "Tail": "62210 HP"
+            }
+        },
+        "Habitat": "Hunt-a-Thon Exclusive",
+        "Weaknesses": "Ice",
+        "Breakable_Parts": "Back, Horns, Forelegs, Tail (Cut)",
+        "Damage_Multipliers": {
+            "Horns": {
+                "Sever": 130,
+                "Blunt": 135,
+                "Ranged": 130
+            },
+            "Charged_Horns": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 140
+            },
+            "Neck": {
+                "Sever": 110,
+                "Blunt": 110,
+                "Ranged": 90
+            },
+            "Charged_Neck": {
+                "Sever": 120,
+                "Blunt": 120,
+                "Ranged": 100
+            },
+            "Body": {
+                "Sever": 90,
+                "Blunt": 100,
+                "Ranged": 70
+            },
+            "Charged_Body": {
+                "Sever": 80,
+                "Blunt": 90,
+                "Ranged": 65
+            },
+            "Back": {
+                "Sever": 80,
+                "Blunt": 90,
+                "Ranged": 65
+            },
+            "Charged_Back": {
+                "Sever": 90,
+                "Blunt": 100,
+                "Ranged": 70
+            },
+            "Forelegs": {
+                "Sever": 110,
+                "Blunt": 120,
+                "Ranged": 90
+            },
+            "Charged_Forelegs": {
+                "Sever": 120,
+                "Blunt": 130,
+                "Ranged": 95
+            },
+            "Hindlegs": {
+                "Sever": 90,
+                "Blunt": 100,
+                "Ranged": 70
+            },
+            "Charged_Hindlegs": {
+                "Sever": 80,
+                "Blunt": 90,
+                "Ranged": 65
+            },
+            "Tail": {
+                "Sever": 120,
+                "Blunt": 110,
+                "Ranged": 90
+            },
+            "Charged_Tail": {
+                "Sever": 130,
+                "Blunt": 120,
+                "Ranged": 95
+            }
+        },
+        "MV": {
+            "Pounce": 27,
+            "Counter_Pounch": 27,
+            "Punch": 27,
+            "Punch_Strong": 53,
+            "Rush": 40,
+            "Body_Slam": 40,
+            "Side_Tackle": 40,
+            "Headbutt": 27,
+            "Summersault": 53,
+            "Tail_Attack": 27,
+            "Tail_Slam": 53,
+            "Tail_Swing": 40,
+            "Charge_Large": 23,
+            "Thunderbug": 19,
+            "Thunderbug_Rotatable": 23,
+            "Pounce_Sparking": 27,
+            "Punch_Sparking": 27,
+            "Punch_Strong_Sparking": 53,
+            "Continue_Jump_Punch_Sparking": 53,
+            "Jump_Back_Press_Sparking": 53
+        },
+        "Drop_Material_By_Parts": {
+            "Zinogre_Claw": "Any",
+            "Zinogre_Shell": "Any",
+            "Zinogre_Tail": "Tail",
+            "Zinogre_Shockfur": "Back",
+            "Zinogre_Primeclaw": "Forelegs",
+            "Zinogre_Horn": "Head",
+            "Zinogre_Plate": "Tail"
+        }
+    }
+}

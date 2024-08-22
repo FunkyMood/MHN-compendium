@@ -1,0 +1,136 @@
+{
+    "Pink_Rathian": {
+        "5_Stars": {
+            "HP": "7613",
+            "Poison": "5090",
+            "Paralysis": "2545",
+            "Sleep": "2545",
+            "Stun": "100",
+            "Attack": "418",
+            "Head": "3806",
+            "Back": "3045",
+            "L_R_Wings": "2283",
+            "Tail": "2283"
+        },
+        "6_Stars": {
+            "HP": "13163",
+            "Poison": "6176",
+            "Paralysis": "3088",
+            "Sleep": "3088",
+            "Stun": "100",
+            "Attack": "512",
+            "Head": "6581",
+            "Back": "5265",
+            "L_R_Wings": "3948",
+            "Tail": "3948"
+        },
+        "7_Stars": {
+            "HP": "22804",
+            "Poison": "6978",
+            "Paralysis": "3489",
+            "Sleep": "3489",
+            "Stun": "100",
+            "Attack": "615",
+            "Head": "11402",
+            "Back": "9121",
+            "L_R_Wings": "6841",
+            "Tail": "6841"
+        },
+        "8_Stars": {
+            "HP": "42947",
+            "Poison": "7823",
+            "Paralysis": "3912",
+            "Sleep": "3912",
+            "Stun": "100",
+            "Attack": "844",
+            "Head": "21473",
+            "Back": "17178",
+            "L_R_Wings": "12884",
+            "Tail": "12884"
+        },
+        "9_Stars": {
+            "HP": "91737",
+            "Poison": "8807",
+            "Paralysis": "4403",
+            "Sleep": "4403",
+            "Stun": "100",
+            "Attack": "956",
+            "Head": "45868",
+            "Back": "36694",
+            "L_R_Wings": "27521",
+            "Tail": "27521"
+        },
+        "10_Stars": {
+            "HP": "169279",
+            "Poison": "9747",
+            "Paralysis": "4874",
+            "Sleep": "4874",
+            "Stun": "100",
+            "Attack": "1056",
+            "Head": "84639",
+            "Back": "67711",
+            "L_R_Wings": "50783",
+            "Tail": "50783"
+        },
+        "Habitat": "Forest",
+        "Weaknesses": "Thunder, Dragon",
+        "Breakable_Parts": "Head, Back, Wings, Tail_cut",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 140
+            },
+            "Body": {
+                "Sever": 90,
+                "Blunt": 100,
+                "Ranged": 70
+            },
+            "Back": {
+                "Sever": 90,
+                "Blunt": 100,
+                "Ranged": 70
+            },
+            "Wings": {
+                "Sever": 130,
+                "Blunt": 130,
+                "Ranged": 135
+            },
+            "Legs": {
+                "Sever": 90,
+                "Blunt": 90,
+                "Ranged": 70
+            },
+            "Tail": {
+                "Sever": 130,
+                "Blunt": 120,
+                "Ranged": 100
+            },
+            "Tail_Tip": {
+                "Sever": 130,
+                "Blunt": 130,
+                "Ranged": 130
+            }
+        },
+        "MV": {
+            "Ground_Forward_Bite": 37,
+            "Rotate_Around_Bite": 28,
+            "Flying_Gliding_Attack": 40,
+            "Flying_Gliding_Attack_2": 28,
+            "Ground_Flame_Injection": 60,
+            "Summersault": 55,
+            "Summersault_Severed_Tail": 55,
+            "Sweep_Summersault": 55,
+            "Sweep_Summersault_Severed_Tail": 55
+        },
+        "Drop_Material_By_Parts": {
+            "Pink_Rathian_Scale": "Any",
+            "Pink_Rathian_Shell": "Any",
+            "Pink_Rathian_Webbing": "Wings",
+            "Pink_Rathian_Spike": "Tail",
+            "Pink_Rathian_Primescale": "Head",
+            "Pink_Rathian_Plate": "Tail",
+            "Wyvern_Gem_Shard": "Tail"
+        }
+    }
+}

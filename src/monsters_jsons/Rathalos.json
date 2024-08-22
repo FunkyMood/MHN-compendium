@@ -1,0 +1,141 @@
+{
+    "Rathalos": {
+        "5_Stars": {
+            "HP": "8159",
+            "Poison": "5333",
+            "Paralysis": "2667",
+            "Sleep": "2667",
+            "Stun": "100",
+            "Attack": "439",
+            "Head": "4079",
+            "Back": "3263",
+            "L_R_Wings": "2447",
+            "Tail": "2447"
+        },
+        "6_Stars": {
+            "HP": "13180",
+            "Poison": "6255",
+            "Paralysis": "3128",
+            "Sleep": "3128",
+            "Stun": "100",
+            "Attack": "533",
+            "Head": "6590",
+            "Back": "5272",
+            "L_R_Wings": "3954",
+            "Tail": "3954"
+        },
+        "7_Stars": {
+            "HP": "23140",
+            "Poison": "7061",
+            "Paralysis": "3530",
+            "Sleep": "3530",
+            "Stun": "100",
+            "Attack": "635",
+            "Head": "11570",
+            "Back": "9256",
+            "L_R_Wings": "6942",
+            "Tail": "6942"
+        },
+        "8_Stars": {
+            "HP": "43733",
+            "Poison": "7911",
+            "Paralysis": "3956",
+            "Sleep": "3956",
+            "Stun": "100",
+            "Attack": "737",
+            "Head": "21866",
+            "Back": "17493",
+            "L_R_Wings": "13119",
+            "Tail": "13119"
+        },
+        "9_Stars": {
+            "HP": "93603",
+            "Poison": "8899",
+            "Paralysis": "4450",
+            "Sleep": "4450",
+            "Stun": "100",
+            "Attack": "855",
+            "Head": "46801",
+            "Back": "37441",
+            "L_R_Wings": "28080",
+            "Tail": "28080"
+        },
+        "10_Stars": {
+            "HP": "169551",
+            "Poison": "9844",
+            "Paralysis": "4922",
+            "Sleep": "4922",
+            "Stun": "100",
+            "Attack": "968",
+            "Head": "84775",
+            "Back": "67820",
+            "L_R_Wings": "50865",
+            "Tail": "50865"
+        },
+        "Habitat": "Forest",
+        "Weaknesses": "Thunder, Dragon",
+        "Breakable_Parts": "Head, Back, Wings, Tail_cut",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 140
+            },
+            "Body": {
+                "Sever": 90,
+                "Blunt": 100,
+                "Ranged": 70
+            },
+            "Back": {
+                "Sever": 90,
+                "Blunt": 100,
+                "Ranged": 70
+            },
+            "Wings": {
+                "Sever": 130,
+                "Blunt": 130,
+                "Ranged": 135
+            },
+            "Legs": {
+                "Sever": 90,
+                "Blunt": 90,
+                "Ranged": 70
+            },
+            "Tail": {
+                "Sever": 120,
+                "Blunt": 110,
+                "Ranged": 90
+            },
+            "Tail_Tip": {
+                "Sever": 120,
+                "Blunt": 120,
+                "Ranged": 95
+            }
+        },
+        "MV": {
+            "Ground_Bite": 28,
+            "Ground_Rush": 37,
+            "Stomp": 40,
+            "Stomp_Impact": 30,
+            "Kick": 43,
+            "Claw_Attack": 28,
+            "Ground_Tail_Roll": 31,
+            "Flamethrower": 46,
+            "Flamethrower_Floor": 3,
+            "Breath": 52,
+            "Ground_Breath_Head": 10,
+            "Back_Step_Breath_2": 63,
+            "Flying_Bite": 34,
+            "Flying_Tail_Attack": 37
+        },
+        "Drop_Material_By_Parts": {
+            "Rathalos_Scale": "Head, Back, Tail",
+            "Rathalos_Wingtalon": "Wings",
+            "Rathalos_Tail": "Tail",
+            "Rathalos_Marrow": "Tail",
+            "Rathalos_Primescale": "Head",
+            "Rathalos_Plate": "Tail",
+            "Wyvern_Gem_Shard": "Tail"
+        }
+    }
+}

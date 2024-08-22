@@ -1,0 +1,64 @@
+{
+    "Kushala_Daora": {
+        "6_Stars": {
+            "HP": "82818",
+            "Poison": "3895",
+            "Paralysis": "4220",
+            "Sleep": "4220",
+            "Stun": "100",
+            "Attack": "536",
+            "Head": "62113",
+            "Wings": "24845",
+            "Tail": "24845"
+        },
+        "8_Stars": {
+            "HP": "325444",
+            "Poison": "4905",
+            "Paralysis": "5313",
+            "Sleep": "5313",
+            "Stun": "100",
+            "Attack": "730",
+            "Head": "244083",
+            "Wings": "97633",
+            "Tail": "97633"
+        },
+        "Habitat": "Interception Exclusive",
+        "Weaknesses": "Dragon (150%), Thunder (150%), Poison",
+        "Breakable_Parts": "Head, Wings, Tail (Cut)",
+        "MV": {
+            "Projectile_Breath_Dragon": 70,
+            "Projectile_Storm_Dance": 43,
+            "Ground_Tornado_Dragon": 64,
+            "Projectile_Breath_Generate_Tornado": 70,
+            "Projectile_Tornado_Strong": 70,
+            "Projectile_Breath_Small": 58,
+            "Projectile_Tornado_From_Breath_Wind": 0,
+            "Wind_Large_No_Guard_Multi_Hit": 0,
+            "Projectile_Breath_Strong_Dragon": 70,
+            "Projectile_Tornado_From_Breath_Straight_Attack": 43,
+            "Flying_Rush": 55,
+            "Ground_Claw_Rotable": 37,
+            "Ground_Claw_Turn": 40,
+            "Ground_Sweep_Breath_Small": 40,
+            "Ground_Sweep_Breath_Dragon": 52,
+            "Ground_Pounce": 58,
+            "Ground_Supercell_Weak": 64,
+            "Ground_Bite_Continuous": 55,
+            "Ground_Rush": 52,
+            "Wind_Dragon_No_Guard_Multi_Hit": 0,
+            "Flying_Claw": 40,
+            "Ground_Bite_Side": 34,
+            "Ground_Supercell_Strong": 100,
+            "Ground_Back_Jump": 0,
+            "Ground_Generate_Tornado": 70,
+            "Flying_Rush_Land": 58
+        },
+        "Drop_Material_By_Parts": {
+            "Daora_Scale": "Any",
+            "Daora_Shell": "Any",
+            "Elder_Dragon_Blood": "Any",
+            "Daora_Tail": "Tail",
+            "Daora_Horn": "Head"
+        }
+    }
+}

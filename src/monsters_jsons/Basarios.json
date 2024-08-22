@@ -1,0 +1,201 @@
+{
+    "Basarios": {
+        "2_Stars": {
+            "HP": "1122",
+            "Poison": "810",
+            "Paralysis": "810",
+            "Sleep": "567",
+            "Stun": "100",
+            "Attack": "118",
+            "Head": "392",
+            "Stomach": "336",
+            "Back": "112",
+            "Tail": "280"
+        },
+        "3_Stars": {
+            "HP": "1720",
+            "Poison": "1283",
+            "Paralysis": "1283",
+            "Sleep": "898",
+            "Stun": "100",
+            "Attack": "203",
+            "Head": "602",
+            "Stomach": "516",
+            "Back": "172",
+            "Tail": "430"
+        },
+        "4_Stars": {
+            "HP": "2454",
+            "Poison": "1800",
+            "Paralysis": "1800",
+            "Sleep": "1260",
+            "Stun": "100",
+            "Attack": "292",
+            "Head": "858",
+            "Stomach": "736",
+            "Back": "245",
+            "Tail": "613"
+        },
+        "5_Stars": {
+            "HP": "4304",
+            "Poison": "2363",
+            "Paralysis": "2363",
+            "Sleep": "1654",
+            "Stun": "100",
+            "Attack": "386",
+            "Head": "1506",
+            "Stomach": "1291",
+            "Back": "430",
+            "Tail": "1076"
+        },
+        "6_Stars": {
+            "HP": "7720",
+            "Poison": "2970",
+            "Paralysis": "2970",
+            "Sleep": "2079",
+            "Stun": "100",
+            "Attack": "491",
+            "Head": "2702",
+            "Stomach": "2316",
+            "Back": "772",
+            "Tail": "1930"
+        },
+        "7_Stars": {
+            "HP": "12700",
+            "Poison": "3364",
+            "Paralysis": "3364",
+            "Sleep": "2355",
+            "Stun": "100",
+            "Attack": "595",
+            "Head": "4445",
+            "Stomach": "3810",
+            "Back": "1270",
+            "Tail": "3175"
+        },
+        "8_Stars": {
+            "HP": "23577",
+            "Poison": "3780",
+            "Paralysis": "3780",
+            "Sleep": "2646",
+            "Stun": "100",
+            "Attack": "695",
+            "Head": "8251",
+            "Stomach": "7073",
+            "Back": "2357",
+            "Tail": "5894"
+        },
+        "9_Stars": {
+            "HP": "45196",
+            "Poison": "4219",
+            "Paralysis": "4219",
+            "Sleep": "2953",
+            "Stun": "100",
+            "Attack": "800",
+            "Head": "15818",
+            "Stomach": "13558",
+            "Back": "4519",
+            "Tail": "11299"
+        },
+        "10_Stars": {
+            "HP": "99183",
+            "Poison": "4728",
+            "Paralysis": "4728",
+            "Sleep": "3310",
+            "Stun": "100",
+            "Attack": "922",
+            "Head": "34714",
+            "Stomach": "29754",
+            "Back": "9918",
+            "Tail": "24795"
+        },
+        "Habitat": "Desert",
+        "Weaknesses": "Water, Dragon, Poison, Sleep",
+        "Breakable_Parts": "Head, Stomach, Back, Hindlegs, Tail (Cut)",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 10,
+                "Blunt": 10,
+                "Ranged": 10
+            },
+            "Broken_Head": {
+                "Sever": 120,
+                "Blunt": 130,
+                "Ranged": 100
+            },
+            "Molten_Head": {
+                "Sever": 135,
+                "Blunt": 145,
+                "Ranged": 130
+            },
+            "Stomach": {
+                "Sever": 90,
+                "Blunt": 90,
+                "Ranged": 70
+            },
+            "Broken_Stomach": {
+                "Sever": 130,
+                "Blunt": 120,
+                "Ranged": 100
+            },
+            "Molten_Stomach": {
+                "Sever": 145,
+                "Blunt": 135,
+                "Ranged": 130
+            },
+            "Wings": {
+                "Sever": 10,
+                "Blunt": 10,
+                "Ranged": 10
+            },
+            "Back": {
+                "Sever": 10,
+                "Blunt": 10,
+                "Ranged": 10
+            },
+            "Broken_Back": {
+                "Sever": 120,
+                "Blunt": 110,
+                "Ranged": 130
+            },
+            "Molten_Back": {
+                "Sever": 130,
+                "Blunt": 130,
+                "Ranged": 145
+            },
+            "Legs": {
+                "Sever": 90,
+                "Blunt": 90,
+                "Ranged": 70
+            },
+            "Tail": {
+                "Sever": 110,
+                "Blunt": 90,
+                "Ranged": 70
+            }
+        },
+        "MV": {
+            "Tail_Whip": 28,
+            "Tail_Roll": 40,
+            "Side_Tackle": 40,
+            "Rush": 43,
+            "Rush_Rolling": 49,
+            "Rush_Mole": 46,
+            "Rush_Mole_Jump_Up": 46,
+            "Rolling": 43,
+            "Laser": 52,
+            "Gas_Poison": 10,
+            "Gas_Hypnotic": 0,
+            "Gas_Flame": 28,
+            "Breath": 46
+        },
+        "Drop_Material_By_Parts": {
+            "Basarios_Shell": "Any",
+            "Basarios_Pleura": "Any",
+            "Basarios_Tail": "Tail",
+            "Basarios_Wing": "Back",
+            "Basarios_Primepleura": "Stomach",
+            "Basarios_Primewing": "Back",
+            "Wyvern_Gem_Shard": "Head"
+        }
+    }
+}

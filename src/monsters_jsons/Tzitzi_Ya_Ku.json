@@ -1,0 +1,140 @@
+{
+    "Tzitzi_Ya_Ku": {
+        "2_Stars": {
+            "HP": "1521",
+            "Poison": "639",
+            "Paralysis": "831",
+            "Sleep": "639",
+            "Stun": "100",
+            "Attack": "86",
+            "Head_1": "456",
+            "Head_2": "912"
+        },
+        "3_Stars": {
+            "HP": "2340",
+            "Poison": "1188",
+            "Paralysis": "1545",
+            "Sleep": "1188",
+            "Stun": "100",
+            "Attack": "186",
+            "Head_1": "702",
+            "Head_2": "1404"
+        },
+        "4_Stars": {
+            "HP": "3505",
+            "Poison": "1645",
+            "Paralysis": "2138",
+            "Sleep": "1645",
+            "Stun": "100",
+            "Attack": "265",
+            "Head_1": "1051",
+            "Head_2": "2103"
+        },
+        "5_Stars": {
+            "HP": "6149",
+            "Poison": "2250",
+            "Paralysis": "2926",
+            "Sleep": "2250",
+            "Stun": "100",
+            "Attack": "367",
+            "Head_1": "1844",
+            "Head_2": "3689"
+        },
+        "6_Stars": {
+            "HP": "10052",
+            "Poison": "2727",
+            "Paralysis": "3545",
+            "Sleep": "2727",
+            "Stun": "100",
+            "Attack": "449",
+            "Head_1": "3015",
+            "Head_2": "6031"
+        },
+        "7_Stars": {
+            "HP": "16720",
+            "Poison": "3246",
+            "Paralysis": "4420",
+            "Sleep": "3246",
+            "Stun": "100",
+            "Attack": "564",
+            "Head_1": "5016",
+            "Head_2": "10032"
+        },
+        "8_Stars": {
+            "HP": "30573",
+            "Poison": "3655",
+            "Paralysis": "4752",
+            "Sleep": "3655",
+            "Stun": "100",
+            "Attack": "665",
+            "Head_1": "9171",
+            "Head_2": "18343"
+        },
+        "9_Stars": {
+            "HP": "64556",
+            "Poison": "4219",
+            "Paralysis": "5485",
+            "Sleep": "4219",
+            "Stun": "100",
+            "Attack": "800",
+            "Head_1": "19369",
+            "Head_2": "38739"
+        },
+        "10_Stars": {
+            "HP": "132493",
+            "Poison": "4680",
+            "Paralysis": "6084",
+            "Sleep": "4680",
+            "Stun": "100",
+            "Attack": "910",
+            "Head_1": "39747",
+            "Head_2": "79495"
+        },
+        "Habitat": "Desert Swamp",
+        "Weaknesses": "Ice",
+        "Breakable_Parts": "Head (2 times)",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 140
+            },
+            "Body": {
+                "Sever": 120,
+                "Blunt": 140,
+                "Ranged": 80
+            },
+            "Forelegs": {
+                "Sever": 120,
+                "Blunt": 140,
+                "Ranged": 80
+            },
+            "Tail": {
+                "Sever": 110,
+                "Blunt": 110,
+                "Ranged": 80
+            }
+        },
+        "MV": {
+            "Dash_Kick_Rush_Dash": 25,
+            "Dash_Kick_Rush_Kick": 40,
+            "Dash_Kick_Rush_Kick_2": 28,
+            "Dash_Kick_Rush_Tail": 46,
+            "Dash_Kick_Rush_Jump": 28,
+            "Scratch": 22,
+            "Scratch_Double": 22,
+            "Scratch_Sweep": 28,
+            "Tail_Sweep": 22,
+            "Flash": 0
+        },
+        "Drop_Material_By_Parts": {
+            "Tzitzi_Ya_Ku_Claw": "Head",
+            "Tzitzi_Ya_Ku_Scale": "Any",
+            "Tzitzi_Ya_Ku_Hide": "Any",
+            "Tzitzi_Ya_Ku_Photophore": "Head",
+            "Tzitzi_Ya_Ku_Primehide": "Head",
+            "Tzitzi_Great_Photophore": "Head",
+            "Wyvern_Gem_Shard": "Head"
+        }
+    }
+}

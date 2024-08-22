@@ -1,0 +1,177 @@
+{
+    "Pukei_Pukei": {
+        "1_Star": {
+            "HP": "518",
+            "Poison": "766",
+            "Paralysis": "383",
+            "Sleep": "268",
+            "Stun": "100",
+            "Attack": "39",
+            "Head": "284",
+            "Back": "155",
+            "L_R_Wing": "155",
+            "Tail": "129"
+        },
+        "2_Stars": {
+            "HP": "1521",
+            "Poison": "1278",
+            "Paralysis": "639",
+            "Sleep": "447",
+            "Stun": "100",
+            "Attack": "85",
+            "Head": "836",
+            "Back": "456",
+            "L_R_Wing": "456",
+            "Tail": "380"
+        },
+        "3_Stars": {
+            "HP": "2340",
+            "Poison": "2377",
+            "Paralysis": "1188",
+            "Sleep": "832",
+            "Stun": "100",
+            "Attack": "186",
+            "Head": "1287",
+            "Back": "702",
+            "L_R_Wing": "702",
+            "Tail": "585"
+        },
+        "4_Stars": {
+            "HP": "3505",
+            "Poison": "3290",
+            "Paralysis": "1645",
+            "Sleep": "1151",
+            "Stun": "100",
+            "Attack": "265",
+            "Head": "1927",
+            "Back": "1051",
+            "L_R_Wing": "1051",
+            "Tail": "876"
+        },
+        "5_Stars": {
+            "HP": "6149",
+            "Poison": "4501",
+            "Paralysis": "2250",
+            "Sleep": "1575",
+            "Stun": "100",
+            "Attack": "367",
+            "Head": "3381",
+            "Back": "1844",
+            "L_R_Wing": "1844",
+            "Tail": "1537"
+        },
+        "6_Stars": {
+            "HP": "10052",
+            "Poison": "5454",
+            "Paralysis": "2727",
+            "Sleep": "1909",
+            "Stun": "100",
+            "Attack": "449",
+            "Head": "5528",
+            "Back": "3015",
+            "L_R_Wing": "3015",
+            "Tail": "2513"
+        },
+        "7_Stars": {
+            "HP": "16720",
+            "Poison": "6492",
+            "Paralysis": "3246",
+            "Sleep": "2272",
+            "Stun": "100",
+            "Attack": "564",
+            "Head": "9196",
+            "Back": "5016",
+            "L_R_Wing": "5016",
+            "Tail": "4180"
+        },
+        "8_Stars": {
+            "HP": "30573",
+            "Poison": "7310",
+            "Paralysis": "3655",
+            "Sleep": "2559",
+            "Stun": "100",
+            "Attack": "665",
+            "Head": "16815",
+            "Back": "9171",
+            "L_R_Wing": "9171",
+            "Tail": "7643"
+        },
+        "9_Stars": {
+            "HP": "64566",
+            "Poison": "8438",
+            "Paralysis": "4219",
+            "Sleep": "2953",
+            "Stun": "100",
+            "Attack": "800",
+            "Head": "33511",
+            "Back": "19369",
+            "L_R_Wing": "19369",
+            "Tail": "16141"
+        },
+        "10_Stars": {
+            "HP": "132493",
+            "Poison": "9360",
+            "Paralysis": "4680",
+            "Sleep": "3276",
+            "Stun": "100",
+            "Attack": "910",
+            "Head": "72871",
+            "Back": "39747",
+            "L_R_Wing": "39747",
+            "Tail": "33123"
+        },
+        "Habitat": "Forest, Swamp, Desert",
+        "Weaknesses": "Thunder, Sleep",
+        "Breakable_Parts": "Head, Back, Wings, Tail (Cut)",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 140,
+                "Weakness Exploit": true
+            },
+            "Back": {
+                "Sever": 90,
+                "Blunt": 100,
+                "Ranged": 70
+            },
+            "Wings": {
+                "Sever": 110,
+                "Blunt": 100,
+                "Ranged": 95
+            },
+            "Legs": {
+                "Sever": 100,
+                "Blunt": 100,
+                "Ranged": 80
+            },
+            "Tail": {
+                "Sever": 120,
+                "Blunt": 110,
+                "Ranged": 90
+            }
+        },
+        "MV": {
+            "Rush": 31,
+            "Tail_Roll": 28,
+            "Tongue_Attack": 43,
+            "Assault_Tongue_Attack": 43,
+            "Assault_Tongue_Attack_Dash": 31,
+            "Stomp": 28,
+            "Poison_Mist": 43,
+            "Breath": 22,
+            "Scatternuts_Breath": 22,
+            "Scatternuts_Jump_Breath": 47,
+            "Scatternuts_Explosion": 22
+        },
+        "Drop_Material_By_Parts": {
+            "Pukei_Pukei_Scale": "Any",
+            "Pukei_Pukei_Hide": "Any",
+            "Pukei_Pukei_Tail": "Tail",
+            "Pukei_Pukei_Sac": "Head",
+            "Pukei_Pukei_Quill": "Wings",
+            "Pukei_Pukei_Primescale": "Head",
+            "Wyvern_Gem_Shard": "Tail"
+        }
+    }
+}

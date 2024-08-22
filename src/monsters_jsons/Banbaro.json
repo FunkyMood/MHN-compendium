@@ -1,0 +1,167 @@
+{
+    "Banbaro": {
+        "3_Stars": {
+            "HP": "1824",
+            "Poison": "1937",
+            "Paralysis": "1490",
+            "Sleep": "1490",
+            "Stun": "70",
+            "Attack": "215",
+            "Right_Horn": "729",
+            "Left_Horn": "1459",
+            "L/R_Hindlegs": "547",
+            "Tail": "547"
+        },
+        "4_Stars": {
+            "HP": "2622",
+            "Poison": "2486",
+            "Paralysis": "1913",
+            "Sleep": "1913",
+            "Stun": "70",
+            "Attack": "280",
+            "Right_Horn": "1048",
+            "Left_Horn": "2097",
+            "L/R_Hindlegs": "786",
+            "Tail": "786"
+        },
+        "5_Stars": {
+            "HP": "4314",
+            "Poison": "3151",
+            "Paralysis": "2424",
+            "Sleep": "2424",
+            "Stun": "70",
+            "Attack": "357",
+            "Right_Horn": "1725",
+            "Left_Horn": "3451",
+            "L/R_Hindlegs": "1294",
+            "Tail": "1294"
+        },
+        "6_Stars": {
+            "HP": "7631",
+            "Poison": "3912",
+            "Paralysis": "3009",
+            "Sleep": "3009",
+            "Stun": "70",
+            "Attack": "451",
+            "Right_Horn": "3052",
+            "Left_Horn": "6104",
+            "L/R_Hindlegs": "2289",
+            "Tail": "2289"
+        },
+        "7_Stars": {
+            "HP": "11793",
+            "Poison": "4373",
+            "Paralysis": "3364",
+            "Sleep": "3364",
+            "Stun": "70",
+            "Attack": "536",
+            "Right_Horn": "4717",
+            "Left_Horn": "9434",
+            "L/R_Hindlegs": "3537",
+            "Tail": "3537"
+        },
+        "8_Stars": {
+            "HP": "23900",
+            "Poison": "4971",
+            "Paralysis": "3824",
+            "Sleep": "3824",
+            "Stun": "70",
+            "Attack": "635",
+            "Right_Horn": "9560",
+            "Left_Horn": "19120",
+            "L/R_Hindlegs": "7170",
+            "Tail": "7170"
+        },
+        "9_Stars": {
+            "HP": "46383",
+            "Poison": "5545",
+            "Paralysis": "4265",
+            "Sleep": "4265",
+            "Stun": "70",
+            "Attack": "730",
+            "Right_Horn": "18553",
+            "Left_Horn": "37106",
+            "L/R_Hindlegs": "13914",
+            "Tail": "13914"
+        },
+        "10_Stars": {
+            "HP": "92098",
+            "Poison": "6147",
+            "Paralysis": "4728",
+            "Sleep": "4728",
+            "Stun": "70",
+            "Attack": "829",
+            "Right_Horn": "36839",
+            "Left_Horn": "73678",
+            "L/R_Hindlegs": "27629",
+            "Tail": "27629"
+        },
+        "Habitat": "Forest, Swamp",
+        "Weaknesses": "Fire, Dragon",
+        "Breakable_Parts": "Horns, Hindlegs, Tail (Cut)",
+        "Damage_Multipliers": {
+            "Horns": {
+                "Sever": 80,
+                "Blunt": 100,
+                "Ranged": 65
+            },
+            "Head": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 140
+            },
+            "Neck": {
+                "Sever": 90,
+                "Blunt": 100,
+                "Ranged": 70
+            },
+            "Body": {
+                "Sever": 80,
+                "Blunt": 90,
+                "Ranged": 65
+            },
+            "Hindlegs": {
+                "Sever": 90,
+                "Blunt": 100,
+                "Ranged": 70
+            },
+            "Broken_Hindlegs": {
+                "Sever": 130,
+                "Blunt": 135,
+                "Ranged": 130
+            },
+            "Tail": {
+                "Sever": 100,
+                "Blunt": 80,
+                "Ranged": 65
+            }
+        },
+        "MV": {
+            "Headbutt": 27,
+            "Pounce": 51,
+            "Tail_Sweep": 27,
+            "Turn_Attack": 27,
+            "Side_Tackle": 51,
+            "Stomp": 17,
+            "Horn_Raise": 51,
+            "Horn_Crush": 51,
+            "Continuous_Horn_Sweep": 51,
+            "Rush": 63,
+            "Rush_Tree": 72,
+            "Rush_Tree_Tip": 36,
+            "Rush_End_Throw_Tree": 72,
+            "Rush_Rock": 63,
+            "Rush_End_Slam_Rock": 53,
+            "Throw_Rock": 53
+        },
+        "Drop_Material_By_Parts": {
+            "Banbaro_Shell": "Horns",
+            "Banbaro_Ridge": "Hindlegs",
+            "Banbaro_Tail": "Tail",
+            "Banbaro_Pelt": "Tail",
+            "Banbaro_Primeshell": "Hindlegs",
+            "Banbaro_Great_Horn": "Horns",
+            "Wyvern_Gem_Shard": "Horns"
+        }
+    }
+}

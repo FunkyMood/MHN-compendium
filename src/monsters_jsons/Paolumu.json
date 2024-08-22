@@ -1,0 +1,161 @@
+{
+    "Paolumu": {
+        "3_Stars": {
+            "HP": "2946",
+            "Poison": "1937",
+            "Paralysis": "1490",
+            "Sleep": "1490",
+            "Stun": "70",
+            "Attack": "239",
+            "Neckpouch": "1178",
+            "Back": "1178",
+            "L_R_Wing": "883",
+            "Tail": "736"
+        },
+        "4_Stars": {
+            "HP": "4235",
+            "Poison": "2486",
+            "Paralysis": "1913",
+            "Sleep": "1913",
+            "Stun": "70",
+            "Attack": "311",
+            "Neckpouch": "1694",
+            "Back": "1694",
+            "L_R_Wing": "1270",
+            "Tail": "1058"
+        },
+        "5_Stars": {
+            "HP": "6969",
+            "Poison": "3151",
+            "Paralysis": "2424",
+            "Sleep": "2424",
+            "Stun": "70",
+            "Attack": "397",
+            "Neckpouch": "2787",
+            "Back": "2787",
+            "L_R_Wing": "2090",
+            "Tail": "1742"
+        },
+        "6_Stars": {
+            "HP": "12326",
+            "Poison": "3912",
+            "Paralysis": "3009",
+            "Sleep": "3009",
+            "Stun": "70",
+            "Attack": "501",
+            "Neckpouch": "4930",
+            "Back": "4930",
+            "L_R_Wing": "3697",
+            "Tail": "3081"
+        },
+        "7_Stars": {
+            "HP": "19050",
+            "Poison": "4373",
+            "Paralysis": "3364",
+            "Sleep": "3364",
+            "Stun": "70",
+            "Attack": "595",
+            "Neckpouch": "7620",
+            "Back": "7620",
+            "L_R_Wing": "5715",
+            "Tail": "4762"
+        },
+        "8_Stars": {
+            "HP": "38608",
+            "Poison": "4971",
+            "Paralysis": "3824",
+            "Sleep": "3824",
+            "Stun": "70",
+            "Attack": "706",
+            "Neckpouch": "15443",
+            "Back": "15443",
+            "L_R_Wing": "11582",
+            "Tail": "9652"
+        },
+        "9_Stars": {
+            "HP": "74927",
+            "Poison": "5545",
+            "Paralysis": "4265",
+            "Sleep": "4265",
+            "Stun": "70",
+            "Attack": "811",
+            "Neckpouch": "29970",
+            "Back": "29970",
+            "L_R_Wing": "22478",
+            "Tail": "18731"
+        },
+        "10_Stars": {
+            "HP": "148774",
+            "Poison": "6147",
+            "Paralysis": "4728",
+            "Sleep": "4728",
+            "Stun": "70",
+            "Attack": "922",
+            "Neckpouch": "59509",
+            "Back": "59509",
+            "L_R_Wing": "44632",
+            "Tail": "37193"
+        },
+        "Habitat": "Swamp, Desert",
+        "Weaknesses": "Fire",
+        "Breakable_Parts": "Neck Pouch, Wings, Back, Tail",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 130,
+                "Blunt": 130,
+                "Ranged": 95
+            },
+            "Neck_Pouch": {
+                "Sever": 140,
+                "Blunt": 140,
+                "Ranged": 130
+            },
+            "Body": {
+                "Sever": 100,
+                "Blunt": 110,
+                "Ranged": 80
+            },
+            "Back": {
+                "Sever": 100,
+                "Blunt": 110,
+                "Ranged": 80
+            },
+            "Wings": {
+                "Sever": 100,
+                "Blunt": 100,
+                "Ranged": 130
+            },
+            "Legs": {
+                "Sever": 80,
+                "Blunt": 90,
+                "Ranged": 55
+            },
+            "Tail": {
+                "Sever": 90,
+                "Blunt": 80,
+                "Ranged": 55
+            }
+        },
+        "MV": {
+            "Ground_Bite": 22,
+            "Ground_Stomp": 22,
+            "Ground_Rush_Body": 33,
+            "Ground_Tail_Roll": null,
+            "Balloon_Rush": 36,
+            "Balloon_Vertical_Press": 55,
+            "Balloon_Tail_Strike": 45,
+            "Balloon_Tail_Slap_Front": 31,
+            "Balloon_Tail_Slap_Back": 31,
+            "Balloon_Breath": 40
+        },
+        "Drop_Material_By_Parts": {
+            "Paolumu_Scale": "Any",
+            "Paolumu_Pelt": "Any",
+            "Paolumu_Webbing": "Wings",
+            "Paolumu_Shell": "Tail",
+            "Paolumu_Primescale": "Wings",
+            "Paolumu_Primeshell": "Tail",
+            "Wyvern_Gem_Shard": "Tail"
+        }
+    }
+}

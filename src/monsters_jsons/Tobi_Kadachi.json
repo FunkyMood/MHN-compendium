@@ -1,0 +1,172 @@
+{
+    "Tobi_Kadachi": {
+        "2_Stars": {
+            "HP": "1678",
+            "Poison": "952",
+            "Paralysis": "952",
+            "Sleep": "952",
+            "Stun": "100",
+            "Attack": "144",
+            "Head": "755",
+            "Back": "503",
+            "Forelegs": "755",
+            "Tail": "419"
+        },
+        "3_Stars": {
+            "HP": "2444",
+            "Poison": "1386",
+            "Paralysis": "1386",
+            "Sleep": "1386",
+            "Stun": "100",
+            "Attack": "221",
+            "Head": "1099",
+            "Back": "733",
+            "Forelegs": "1099",
+            "Tail": "611"
+        },
+        "4_Stars": {
+            "HP": "3581",
+            "Poison": "1856",
+            "Paralysis": "1856",
+            "Sleep": "1856",
+            "Stun": "100",
+            "Attack": "301",
+            "Head": "1611",
+            "Back": "1074",
+            "Forelegs": "1611",
+            "Tail": "895"
+        },
+        "5_Stars": {
+            "HP": "5842",
+            "Poison": "2363",
+            "Paralysis": "2363",
+            "Sleep": "2363",
+            "Stun": "100",
+            "Attack": "386",
+            "Head": "2628",
+            "Back": "1752",
+            "Forelegs": "2628",
+            "Tail": "1460"
+        },
+        "6_Stars": {
+            "HP": "10477",
+            "Poison": "2970",
+            "Paralysis": "2970",
+            "Sleep": "2970",
+            "Stun": "100",
+            "Attack": "491",
+            "Head": "4714",
+            "Back": "3143",
+            "Forelegs": "4714",
+            "Tail": "2619"
+        },
+        "7_Stars": {
+            "HP": "18712",
+            "Poison": "3406",
+            "Paralysis": "3406",
+            "Sleep": "3406",
+            "Stun": "100",
+            "Attack": "605",
+            "Head": "8420",
+            "Back": "5613",
+            "Forelegs": "8420",
+            "Tail": "4678"
+        },
+        "8_Stars": {
+            "HP": "31997",
+            "Poison": "3780",
+            "Paralysis": "3780",
+            "Sleep": "3780",
+            "Stun": "100",
+            "Attack": "695",
+            "Head": "14398",
+            "Back": "9599",
+            "Forelegs": "14389",
+            "Tail": "7999"
+        },
+        "9_Stars": {
+            "HP": "74244",
+            "Poison": "4311",
+            "Paralysis": "4311",
+            "Sleep": "4311",
+            "Stun": "100",
+            "Attack": "822",
+            "Head": "33409",
+            "Back": "22273",
+            "Forelegs": "33409",
+            "Tail": "18561"
+        },
+        "10_Stars": {
+            "HP": "143342",
+            "Poison": "4777",
+            "Paralysis": "4777",
+            "Sleep": "4777",
+            "Stun": "100",
+            "Attack": "922",
+            "Head": "64503",
+            "Back": "43002",
+            "Forelegs": "64503",
+            "Tail": "35835"
+        },
+        "Habitat": "Forest, Swamp",
+        "Weaknesses": "Water, Poison",
+        "Breakable_Parts": "Head, Back, Claws, Tail",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 130,
+                "Blunt": 135,
+                "Ranged": 130
+            },
+            "Body": {
+                "Sever": 100,
+                "Blunt": 110,
+                "Ranged": 80
+            },
+            "Back": {
+                "Sever": 100,
+                "Blunt": 100,
+                "Ranged": 95
+            },
+            "Forelegs": {
+                "Sever": 90,
+                "Blunt": 90,
+                "Ranged": 95
+            },
+            "Hindlegs": {
+                "Sever": 90,
+                "Blunt": 90,
+                "Ranged": 55
+            },
+            "Tail": {
+                "Sever": 140,
+                "Blunt": 140,
+                "Ranged": 140
+            }
+        },
+        "MV": {
+            "Tail_Slam": 52,
+            "Tail_Slam_Broken": 43,
+            "Tail_Swing": 22,
+            "Tail_Swing_Broken": 16,
+            "Glide_Tail_Jump": 22,
+            "Glide_Tail_Slam": 43,
+            "Jump_Bite": 22,
+            "Bite": 22,
+            "Continuous_Bite": 43,
+            "Step_Bite": 40,
+            "Tail_Slam_Sparking": 59,
+            "Tail_Swing_Sparking": 31,
+            "Tail_Slap_Sparking": 36,
+            "Sparking_Headbutt": 31
+        },
+        "Drop_Material_By_Parts": {
+            "Tobi_Kadachi_Scale": "Head, Back, Tail",
+            "Tobi_Kadachi_Claw": "Forelegs",
+            "Tobi_Kadachi_Pelt": "Head",
+            "Tobi_Kadachi_Membrane": "Forelegs",
+            "Tobi_Kadachi_Primescale": "Forelegs",
+            "Tobi_Kadachi_Electrode": "Tail",
+            "Wyvern_Gem_Shard": "Tail"
+        }
+    }
+}

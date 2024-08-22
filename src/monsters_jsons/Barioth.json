@@ -1,0 +1,152 @@
+{
+    "Barioth": {
+        "4_Stars": {
+            "HP": "3782",
+            "Poison": "2560",
+            "Paralysis": "1969",
+            "Sleep": "1969",
+            "Stun": "100",
+            "Attack": "311",
+            "Head": "1512",
+            "L/R_Spikes": "945",
+            "Tail": "1134"
+        },
+        "5_Stars": {
+            "HP": "6270",
+            "Poison": "3230",
+            "Paralysis": "2484",
+            "Sleep": "2484",
+            "Stun": "100",
+            "Attack": "407",
+            "Head": "2508",
+            "L/R_Spikes": "1567",
+            "Tail": "1881"
+        },
+        "6_Stars": {
+            "HP": "10957",
+            "Poison": "3963",
+            "Paralysis": "3049",
+            "Sleep": "3049",
+            "Stun": "100",
+            "Attack": "512",
+            "Head": "4382",
+            "L/R_Spikes": "2739",
+            "Tail": "3287"
+        },
+        "7_Stars": {
+            "HP": "18701",
+            "Poison": "4481",
+            "Paralysis": "3447",
+            "Sleep": "3447",
+            "Stun": "100",
+            "Attack": "615",
+            "Head": "7480",
+            "L/R_Spikes": "4675",
+            "Tail": "5610"
+        },
+        "8_Stars": {
+            "HP": "35075",
+            "Poison": "5028",
+            "Paralysis": "3868",
+            "Sleep": "3868",
+            "Stun": "100",
+            "Attack": "716",
+            "Head": "14030",
+            "L/R_Spikes": "8768",
+            "Tail": "10522"
+        },
+        "9_Stars": {
+            "HP": "74751",
+            "Poison": "5664",
+            "Paralysis": "4357",
+            "Sleep": "4357",
+            "Stun": "100",
+            "Attack": "N/A",
+            "Head": "29900",
+            "L/R_Spikes": "18687",
+            "Tail": "22425"
+        },
+        "10_Stars": {
+            "HP": "140872",
+            "Poison": "6273",
+            "Paralysis": "4825",
+            "Sleep": "4825",
+            "Stun": "100",
+            "Attack": "N/A",
+            "Head": "56348",
+            "L/R_Spikes": "35218",
+            "Tail": "42261"
+        },
+        "Habitat": "Hunt-a-Thon Exclusive",
+        "Weaknesses": "Fire",
+        "Breakable_Parts": "Head, Spikes, Tail (Cut)",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 140
+            },
+            "Body": {
+                "Sever": 100,
+                "Blunt": 110,
+                "Ranged": 80
+            },
+            "Back": {
+                "Sever": 100,
+                "Blunt": 110,
+                "Ranged": 80
+            },
+            "Wings": {
+                "Sever": 110,
+                "Blunt": 135,
+                "Ranged": 80
+            },
+            "Spikes": {
+                "Sever": 130,
+                "Blunt": 135,
+                "Ranged": 130
+            },
+            "Hindlegs": {
+                "Sever": 90,
+                "Blunt": 100,
+                "Ranged": 70
+            },
+            "Tail": {
+                "Sever": 130,
+                "Blunt": 90,
+                "Ranged": 130
+            },
+            "Tail_Tip": {
+                "Sever": 145,
+                "Blunt": 130,
+                "Ranged": 130
+            }
+        },
+        "MV": {
+            "Ground_Forward_Bite_Head": 28,
+            "Ground_Forward_Bite_Body": 18,
+            "Ground_Slamming_Bite": 60,
+            "Ground_Slamming_Bite_Head": 40,
+            "Ground_Roll_Claw": 31,
+            "Ground_Down_Body": 18,
+            "Ground_Dive_Forelegs": 22,
+            "Ground_Short_Tackle": 52,
+            "Ground_Dive_Body": 35,
+            "Ground_Tail_Spin": 20,
+            "Ground_Tail_Sweep": 31,
+            "Ground_Tail_Sweep_Ice": 20,
+            "Ice_Breath": 24,
+            "Flying_Rolling_Dive_Forelegs": 35,
+            "Flying_Rolling_Dive_Body": 45
+        },
+        "Drop_Material_By_Parts": {
+            "Barioth_Claw": "Wings",
+            "Barioth_Shell": "Head",
+            "Barioth_Tail": "Tail",
+            "Barioth_Spike": "Wings",
+            "Barioth_Primeclaw": "Wings",
+            "Amber_Fang": "Head",
+            "Wyvern_Gem_Shard": "Tail"
+        }
+    }
+}

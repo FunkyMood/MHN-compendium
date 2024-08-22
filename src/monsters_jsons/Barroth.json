@@ -1,0 +1,179 @@
+{
+    "Barroth": {
+        "1_Star": {
+            "HP": "918",
+            "Poison": "554",
+            "Paralysis": "554",
+            "Sleep": "554",
+            "Stun": "130",
+            "Attack": "71",
+            "Head": "504",
+            "Forelegs": "459",
+            "L_R_Hindlegs": "367",
+            "Tail": "183"
+        },
+        "2_Stars": {
+            "HP": "1369",
+            "Poison": "810",
+            "Paralysis": "810",
+            "Sleep": "810",
+            "Stun": "130",
+            "Attack": "118",
+            "Head": "752",
+            "Forelegs": "684",
+            "L_R_Hindlegs": "547",
+            "Tail": "273"
+        },
+        "3_Stars": {
+            "HP": "2106",
+            "Poison": "1283",
+            "Paralysis": "1283",
+            "Sleep": "1283",
+            "Stun": "130",
+            "Attack": "221",
+            "Head": "1158",
+            "Forelegs": "1053",
+            "L_R_Hindlegs": "842",
+            "Tail": "421"
+        },
+        "4_Stars": {
+            "HP": "2454",
+            "Poison": "1800",
+            "Paralysis": "1800",
+            "Sleep": "1800",
+            "Stun": "130",
+            "Attack": "301",
+            "Head": "1349",
+            "Forelegs": "1227",
+            "L_R_Hindlegs": "981",
+            "Tail": "490"
+        },
+        "5_Stars": {
+            "HP": "4304",
+            "Poison": "2363",
+            "Paralysis": "2363",
+            "Sleep": "2363",
+            "Stun": "130",
+            "Attack": "386",
+            "Head": "2367",
+            "Forelegs": "2152",
+            "L_R_Hindlegs": "1721",
+            "Tail": "860"
+        },
+        "6_Stars": {
+            "HP": "7720",
+            "Poison": "2970",
+            "Paralysis": "2970",
+            "Sleep": "2970",
+            "Stun": "130",
+            "Attack": "491",
+            "Head": "4246",
+            "Forelegs": "3860",
+            "L_R_Hindlegs": "3088",
+            "Tail": "1544"
+        },
+        "7_Stars": {
+            "HP": "12700",
+            "Poison": "3364",
+            "Paralysis": "3364",
+            "Sleep": "3364",
+            "Stun": "100",
+            "Attack": "595",
+            "Head": "6985",
+            "Forelegs": "6350",
+            "L_R_Hindlegs": "5080",
+            "Tail": "2540"
+        },
+        "8_Stars": {
+            "HP": "23577",
+            "Poison": "3780",
+            "Paralysis": "3780",
+            "Sleep": "3780",
+            "Stun": "130",
+            "Attack": "895",
+            "Head": "12967",
+            "Forelegs": "11788",
+            "L_R_Hindlegs": "9430",
+            "Tail": "4715"
+        },
+        "9_Stars": {
+            "HP": "49951",
+            "Poison": "4265",
+            "Paralysis": "4265",
+            "Sleep": "4265",
+            "Stun": "130",
+            "Attack": "811",
+            "Head": "27473",
+            "Forelegs": "24975",
+            "L_R_Hindlegs": "19980",
+            "Tail": "9990"
+        },
+        "10_Stars": {
+            "HP": "99183",
+            "Poison": "4728",
+            "Paralysis": "4728",
+            "Sleep": "4728",
+            "Stun": "130",
+            "Attack": "922",
+            "Head": "54550",
+            "Forelegs": "49591",
+            "L_R_Hindlegs": "39673",
+            "Tail": "19836"
+        },
+        "Habitat": "Swamp, Desert",
+        "Weaknesses": "Water_on_mud, Fire, Poison",
+        "Breakable_Parts": "Head_impact, Arms, Hindlegs, Tail_cut",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 80,
+                "Blunt": 110,
+                "Ranged": 55
+            },
+            "Body": {
+                "Sever": 100,
+                "Blunt": 100,
+                "Ranged": 80
+            },
+            "Forelegs": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 140,
+                "Weakness Exploit": true
+            },
+            "Hindlegs": {
+                "Sever": 90,
+                "Blunt": 100,
+                "Ranged": 65
+            },
+            "Tail": {
+                "Sever": 120,
+                "Blunt": 100,
+                "Ranged": 80
+            },
+            "Mud_Covered": {
+                "Sever": 0,
+                "Blunt": 30,
+                "Ranged": 0
+            }
+        },
+        "MV": {
+            "Rush": 58,
+            "Bite": 33,
+            "Headbutt": 41,
+            "Headbutt_Side": 33,
+            "Tail_Strike": 33,
+            "Tail_Swing": 26,
+            "Side_Tackle": 26,
+            "Mud": 21
+        },
+        "Drop_Material_By_Parts": {
+            "Barroth_Shell": "Head, Tail, Forelegs",
+            "Barroth_Claw": "Forelegs, Hindlegs",
+            "Barroth_Tail": "Tail",
+            "Barroth_Scalp": "Head",
+            "Barroth_Ridge": "Head",
+            "Barroth_Primeshell": "Forelegs",
+            "Wyvern_Gem_Shard": "Tail"
+        }
+    }
+}

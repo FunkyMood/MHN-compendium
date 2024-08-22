@@ -1,0 +1,147 @@
+{
+    "Azure_Rathalos": {
+        "5_Stars": {
+            "HP": "9076",
+            "Poison": "5454",
+            "Paralysis": "2727",
+            "Sleep": "2727",
+            "Stun": "100",
+            "Attack": "449",
+            "Head": "4538",
+            "Back": "3630",
+            "L/R_Wings": "2722",
+            "Tail": "2722"
+        },
+        "6_Stars": {
+            "HP": "14586",
+            "Poison": "6334",
+            "Paralysis": "3167",
+            "Sleep": "3167",
+            "Stun": "100",
+            "Attack": "543",
+            "Head": "7293",
+            "Back": "5834",
+            "L/R_Wings": "4375",
+            "Tail": "4375"
+        },
+        "7_Stars": {
+            "HP": "25912",
+            "Poison": "7144",
+            "Paralysis": "3572",
+            "Sleep": "3572",
+            "Stun": "100",
+            "Attack": "645",
+            "Head": "12956",
+            "Back": "10364",
+            "L/R_Wings": "7773",
+            "Tail": "7773"
+        },
+        "8_Stars": {
+            "HP": "49124",
+            "Poison": "7999",
+            "Paralysis": "4000",
+            "Sleep": "4000",
+            "Stun": "100",
+            "Attack": "866",
+            "Head": "24562",
+            "Back": "19649",
+            "L/R_Wings": "14737",
+            "Tail": "14737"
+        },
+        "9_Stars": {
+            "HP": "105322",
+            "Poison": "8991",
+            "Paralysis": "4496",
+            "Sleep": "4496",
+            "Stun": "100",
+            "Attack": "979",
+            "Head": "52661",
+            "Back": "42128",
+            "L/R_Wings": "31596",
+            "Tail": "31596"
+        },
+        "10_Stars": {
+            "HP": "187671",
+            "Poison": "9941",
+            "Paralysis": "4970",
+            "Sleep": "4970",
+            "Stun": "100",
+            "Attack": "979",
+            "Head": "93835",
+            "Back": "75068",
+            "L/R_Wings": "56301",
+            "Tail": "56301"
+        },
+        "Habitat": "Forest",
+        "Weaknesses": "Ice, Dragon",
+        "Breakable_Parts": "Head, Back, Wings, Tail (Cut)",
+        "Damage_Multipliers": {
+            "Head": {
+                "Sever": 140,
+                "Blunt": 145,
+                "Ranged": 140
+            },
+            "Body": {
+                "Sever": 90,
+                "Blunt": 100,
+                "Ranged": 70
+            },
+            "Back": {
+                "Sever": 90,
+                "Blunt": 100,
+                "Ranged": 70
+            },
+            "Wings": {
+                "Sever": 130,
+                "Blunt": 130,
+                "Ranged": 135
+            },
+            "Legs": {
+                "Sever": 80,
+                "Blunt": 80,
+                "Ranged": 65
+            },
+            "Tail": {
+                "Sever": 110,
+                "Blunt": 100,
+                "Ranged": 80
+            },
+            "Tail_Tip": {
+                "Sever": 140,
+                "Blunt": 135,
+                "Ranged": 135
+            }
+        },
+        "MV": {
+            "Ground_Bite": 28,
+            "Ground_Strong_Bite": 38,
+            "Ground_Rush": 37,
+            "Stomp": 40,
+            "Stomp_Impact": 30,
+            "Kick": 43,
+            "Claw_Attack": 28,
+            "Ground_Tail_Roll": 31,
+            "Flamethrower": 46,
+            "Flamethrower_Floor": 3,
+            "Breath": 52,
+            "Ground_Breath_Head": 10,
+            "Back_Step_Breath": 70,
+            "Back_Step_Breath_2": 63,
+            "Strong_Breath": 62,
+            "Flying_Bite": 34,
+            "Flying_Continuous_Kick": 43,
+            "Flying_Tail_Attack": 37,
+            "Flying_Vertical_Drop": 54,
+            "Flying_Vertical_Drop_Impact": 47
+        },
+        "Drop_Material_By_Parts": {
+            "Azure_Rathalos_Scale": "Head, Back, Tail",
+            "Azure_Rathalos_Wingtalon": "Wings",
+            "Azure_Rathalos_Tail": "Tail",
+            "Azure_Rathalos_Marrow": "Tail",
+            "Azure_Rathalos_Primescale": "Head",
+            "Azure_Rathalos_Plate": "Tail",
+            "Wyvern_Gem_Shard": "Tail"
+        }
+    }
+}
