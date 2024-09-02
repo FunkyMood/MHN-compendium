@@ -20,17 +20,19 @@ export default {
     }
   },
   mounted() {
-    this.monsters = this.getMonsterList;
+    /* this.monsters = this.getMonsterList; */
+    this.getMonsterList();
   },
   methods: {
     getMonsterList() {
-      axios.get('https://api.example.com/monsters')
-        .then(response => {
-          this.monsters = response.data;
-        })
-        .catch(error => {
-          console.error('Errore durante il fetch dei mostri:', error);
-        });
+      let url = 'https://script.google.com/macros/s/AKfycbxtHbh4hzr-6VAyFwxfvg37EDzzTygRQNXEhbwYMvFJ9hlJWOZG4kw_q7ju3Rq4lKbT/exec';
+      axios.get(url, {
+        headers: {
+          'Content-Type': 'application/json'
+        }
+      })
+      .then(response => console.log(response.data))
+      .catch(error => console.error('Errore:', error));
   },
   computed: {
 

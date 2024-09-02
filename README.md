@@ -27,8 +27,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### Google App Scripts api
 
 ID implementazione
-AKfycbwZD0I0nDI3nqUhKQuAgLqBhpeV4CJll_phEJq_wmX0xtU1wgOJ7wR5-bVhRaCsnwQ
+AKfycbyPbmLeXh33wfkNZ-ylnmvUfu-a3tZxCWdRflxkcOL2ZTcuV9nKXrqJd17xUziP1AMY
 
 Url application
-https://script.google.com/macros/s/AKfycbwZD0I0nDI3nqUhKQuAgLqBhpeV4CJll_phEJq_wmX0xtU1wgOJ7wR5-bVhRaCsnwQ/exec
+https://script.google.com/macros/s/AKfycbxtHbh4hzr-6VAyFwxfvg37EDzzTygRQNXEhbwYMvFJ9hlJWOZG4kw_q7ju3Rq4lKbT/exec
 
