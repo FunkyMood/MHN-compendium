@@ -1,26 +1,19 @@
 <template>
-  <ListMonster></ListMonster>
+  <ListSkills></ListSkills>
 </template>
 
 <script>
 
-import ListMonster from "./components/ListMonster";
+import ListSkills from "./components/ListSkills";
 
 export default {
   name: 'App',
   components: {
-    ListMonster
+    ListSkills
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
 </style>
