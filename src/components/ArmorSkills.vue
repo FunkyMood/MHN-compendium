@@ -19,6 +19,10 @@
     </div>
   </template>
 
+  <!-- TO do
+   Implementare una search che cerchi le parole chiave e mostri solo l'equip con quelle lì Es. Gauge
+  -->
+
 <script>
 import ArmorSkills from '@/jsons/armor_skills_json/armor_skills.json';
 
