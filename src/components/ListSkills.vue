@@ -3,8 +3,8 @@
     <div class="card-skill" v-for="abilityName in skillsName" :key="abilityName">
       <p class="skill-name">{{ abilityName }}</p>
       <ul>
-        <li v-for="(skillLevelDescription, levelKey) in Skills.Skills[abilityName]" :key="levelKey">
-          <p>{{skillLevelDescription}}</p>
+        <li v-for="(skillLevelDescription, levelKey, index) in Skills.Skills[abilityName]" :key="levelKey">
+          <p> {{ index +1 }} - {{skillLevelDescription}}</p>
         </li>
         
       </ul>
@@ -16,7 +16,7 @@
 import Skills from '@/jsons/skills_json/skills.json';
 
 export default {
-  name: 'ListMonster',
+  name: 'ListSkills',
 
   data() {
     return {

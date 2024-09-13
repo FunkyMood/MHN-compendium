@@ -1,0 +1,293 @@
+Leather
+    - Helm 
+        - skill_name : Critical Eye 
+            - skill_level : 1
+            - item_grade : 2
+        - skill_name :   Ice Resistance 
+            - skill_level : 1
+            - item_grade : 4
+    - Mail
+        - skill_name :  Attack Boost 
+            - skill_level : 1 
+            - item_grade : 2
+        - skill_name : Fire Resistance 
+            - skill_level : 1 
+            - item_grade : 4
+    - Arms
+        - skill_name : Defense Boost 
+            - skill_level : 1 
+            - item_grade : 2
+        - skill_name : Thunder Resistance 
+            - skill_level : 1 
+            - item_grade : 4
+    -Waist
+        - skill_name : Health Boost 
+            - skill_level : 1 
+            - item_grade : 2
+        - skill_name : Water Resistance 
+             - skill_level : 1 
+             - item_grade : 4
+    -Legs
+        - skill_name : Poison Resistance 
+             - skill_level : 1 
+             - item_grade : 1
+        - skill_name : Paralysis Resistance 
+             - skill_level : 1 
+             - item_grade : 4
+    
+Jagras 
+Helm,"Firm Foothold 1 (Grade 2) Firm Foothold 2 (Grade 6)",,,
+Mail,"Rising Tide 1 (Grade 2) Rising Tide 2 (Grade 6)"
+Arms,"Firm Foothold 1 (Grade 2) Water Attack 1 (Grade 4)"
+Waist,"Fortify 1 (Grade 2) Rising Tide 1 (Grade 4) Fortify 2 (Grade 6)"
+Legs,"Water Attack 1 (Grade 2) Water Attack 2 (Grade 6)
+
+
+Kulu
+Helm,"Lock On (Grade 2)Critical Eye 1 (Grade 4)
+Mail,"Guts 1 (Grade 2)Guts 2 (Grade 6)"
+Arms,"Last Stand 1 (Grade 2)Critical Eye 1 (Grade 4)"
+Waist,"Last Stand 1 (Grade 2)Evade Extender 1 (Grade 4)"
+Legs,"Critical Eye 1 (Grade 2)Critical Eye 2 (Grade 6)"
+
+
+Pukei
+Helm,"Focus 1 (Grade 2) Health Boost 1 (Grade 4) Health Boost 2 (Grade 6)",
+Mail,"Poison Resistance 1 (Grade 2) Focus 1 (Grade 4)"
+Arms,"Poison Attack 1 (Grade 2) Poison Resistance 1 (Grade 4)",
+Waist,"Poison Attack 1 (Grade 2) Poison Attack 2 (Grade 6)"
+Legs,"Health Boost 1 (Grade 2) Poison Resistance 1 (Grade 4)"
+
+
+Barroth
+Helm,"Defense Boost 1 (Grade 2) Offensive Guard 1 (Grade 4)",,,
+Mail,"Offensive Guard 1 (Grade 2) Offensive Guard 2 (Grade 6)"
+Arms,"Guard 1 (Grade 2) Guard 2 (Grade 6)"
+Waist,"Defense Boost 1 (Grade 2) Guard 1 (Grade 4)"
+Legs,"Recoil Down 1 (Grade 2) Defense Boost 1 (Grade 4) Defense Boost 2 (Grade 6)"
+
+
+Girros
+Helm,"Paralysis Resistance 1 Paralysis Resistance 2 (Grade 6)"
+Mail,"Paralysis Resistance 1  Sneak Attack 1 (Grade 4)"
+Arms,"Sneak Attack 1 Earplugs 1 (Grade 4)"
+Waist,"Paralysis Attack 1 Earplugs 1 (Grade 4) Earplugs 2 (Grade 6)"
+Legs,"Paralysis Attack 1 
+Paralysis Attack 2 (Grade 6)"
+
+Kadachi,
+Helm,"Reload Speed 1  Artful Dodger 1 (Grade 6)"
+Mail,"Evade Extender 1  Thunder Attack 1 (Grade 4)"
+Arms,"Evade Extender 1  Artful Dodger 1 (Grade 4) Evade Extender 2 (Grade 6)"
+Waist,"Thunder Attack 1  Thunder Attack 2 (Grade 6)"
+Legs,"Artful Dodger 1  Thunder Resistance 1 (Grade 4)"
+
+Paolumu
+Helm,"Concentration 1  Windproof 1 (Grade 4)"
+Mail,"Recoil Down 1 Recoil Down 2 (Grade 6)"
+Arms,"Concentration 1  Divine Blessing 1 (Grade 4) Concentration 2 (Grade 6)"
+Waist,"Divine Blessing 1 Divine Blessing 2 (Grade 6)"
+Legs,"Windproof 1 Windproof 2 (Grade 6)"
+
+Jyura,
+Helm,"Water Resistance 1 Last Stand 1 (Grade 4)"
+Mail,"Water Attack 1 Last Stand 1 (Grade 4)"
+Arms,"Water Attack 1 Water Attack 2 (Grade 6)"
+Waist,"Water Resistance 1 Water Resistance 2 (Grade 6) 
+Legs,"Focus 1 Last Stand 1 (Grade 4) Focus 2 (Grade 6)"
+
+
+Anjanath
+Helm,"Fire Attack 2 Fire Resistance 1 (Grade 6)"
+Mail,"Special Boost 1 Special Boost 2 (Grade 6)"
+Arms,"Fire Attack 1 Fire Attack 2 (Grade 6)"
+Waist,"Fire Resistance 1 Special Boost 1 (Grade 6)"
+Legs,"Peak Performance 1 Peak Performance 2 (Grade 6)"
+
+Rathian
+Helm,"Health Boost 2 Poison Attack 1 (Grade 6)"
+Mail,"Poison Attack 1  Poison Attack 2 (Grade 6)"
+Arms,"Lock On Burst 1 (Grade 4) Burst 2 (Grade 6)"
+Waist,"Poison Resistance 1  Burst 1 (Grade 6)"
+Legs,"Health Boost 1 Health Boost 2 (Grade 6)
+
+Legiana,
+Helm,"Divine Blessing 1 Ice Attack 1 (Grade 6)"
+Mail,"Divine Blessing 2 Windproof 1 (Grade 6)"
+Arms,"Reload Speed 1  Reload Speed 2 (Grade 6)"
+Waist,"Ice Attack 2 Windproof 1 (Grade 6)"
+Legs,"Reload Speed 1  Ice Resistance 1 (Grade 6)
+
+Diablos
+Helm,"Heroics 1 Heroics 2 (Grade 6)",
+Mail,"Slugger 1 Heroics 1 (Grade 6)"
+Arms,"Heroics 2Partbreaker 1 (Grade 6)"
+Waist,"Partbreaker 1 Offensive Guard 1 (Grade 6)"
+Legs,"Slugger 2 Partbreaker 1 (Grade 6)"
+
+Rathalos
+Helm,"Attack Boost 2 Fire Attack 1 (Grade 6)"
+Mail,"Weakness Exploit 1 Weakness Exploit 2 (Grade 6)"
+Arms,"Fire Resistance 1 Attack Boost 1 (Grade 6)"
+Waist,"Focus 1 Fire Attack 1 (Grade 6)"
+Legs,"Fire Resistance 1 Weakness Exploit 1 (Grade 6)"
+
+Black Diablos",
+Helm,"Partbreaker 2 Resentment 1 (Grade 6)"
+Mail,"Resentment 2 Firm Foothold 1 (Grade 6)"
+Arms,"Resentment 1 Focus 1 (Grade 6)"
+Waist,"Lock On 1 Heroics 1 (Grade 6)
+Legs,"Heroics 1 Offensive Guard 1 (Grade 6)"
+
+"Pink Rathian"
+Helm,"Special Boost 1 Windproof 1 (Grade 6)"
+Mail,"Dragon Attack 1 Focus 1 (Grade 6)"
+Arms,"Windproof 2 Critical Eye 1 (Grade 6)"
+Waist,"Critical Eye 1  Critical Eye 2 (Grade 6)"
+Legs,"Special Boost 2 Dragon Attack 1 (Grade 6)"
+
+Jack-o'-Head
+Helm,Solidarity (Pumpkin Hunt)
+
+Banbaro
+Helm,"Tremor Resistance 1 Recoil Down 1 (Grade 4)"
+Mail,"Concentration 1 Partbreaker 1 (Grade 6)
+Arms,"Offensive Guard 1  Tremor Resistance 1 (Grade 4) Offensive Guard 2 (Grade 6)"
+Waist,"Attack Boost 1 Firm Foothold 1 (Grade 4) Attack Boost 2 (Grade 6)
+Legs,"Divine Blessing 1 Concentration 1 (Grade 6)
+
+Barioth
+Helm,"Evade Extender 1 Skyward Striker 1 Skyward Striker 2 (Grade 6)"
+Mail,"Ice Resistance 1 Ice Attack 1 (Grade 6)"
+Arms,"Ice Attack 1 Ice Attack 2 (Grade 6)
+Waist,"Skyward Striker 1 Ice Resistance 1 (Grade 6)
+Legs,"Sneak Attack 1 Evade Extender 1 (Grade 6)
+
+Radobaan
+Helm,"Guard 1 Guard 2 (Grade 6)"
+Mail,"Sleep Attack 1 Defense Boost 1 (Grade 4) Defense Boost 2 (Grade 6)
+Arms,"Slugger 1 Sleep Resistance 1 (Grade 4)
+Waist,"Sleep Attack 1 Sleep Attack 2 (Grade 6)
+Legs,"Sleep Resistance 1 Guard 1 (Grade 4)
+
+Zinogre
+Helm,"Evasive Concentration 1Burst 1 (Grade 6)"
+Mail,"Evasive Concentration 1 Thunder Resistance 1 Evasive Concentration 2 (Grade 6)
+Arms,"Thunder Attack 1 Thunder Attack 2 (Grade 6)
+Waist,"Artful Dodger 1 Reload Speed 1 (Grade 6)
+Legs,"Burst 1  Thunder Attack 1 (Grade 6)
+
+"New Year 2024"
+Helm, Happy New Year (2024)
+
+"Azure Rathalos",
+Helm,"Focus 1 Focus 2 (Grade 6)"
+Mail,"Earplugs 1 Fire Attack 1 Earplugs 2 (Grade 6)"
+Arms,"Critical Boost 1 Critical Boost 2 (Grade 6)"
+Waist,"Special Boost 1 Critical Boost 1 (Grade 6)"
+Legs,"Reload Speed 2 Fire Attack 1 (Grade 6)"
+
+"Dragon Dance Mask"
+Helm,"Critical Boost 1 Critical Boost 2 (Grade 6)"
+
+Tzitzi
+Helm,"Thunder Attack 1 Evade Extender 1 (Grade 4) Thunder Attack 2 (Grade 6)"
+Mail,"Status Sneak Attack 1 Artful Dodger 1 (Grade 4)
+Arms,"Status Sneak Attack 1 Status Sneak Attack 2 (Grade 6)
+Waist,"Evade Extender 1 Status Sneak Attack 1 (Grade 4)
+Legs,"Fortify 1  Fortify 2 (Grade 4)
+
+Odogaron
+Helm,"Quick Work 1 Quick Work 2 (Grade 6)"
+Mail,"Critical Eye 1 Bleeding Resistance 1 Critical Eye 2 (Grade 6)
+Arms,"Quick Work 1 Bleeding Resistance 1 Bleeding Resistance 2 (Grade 6)
+Waist,"Critical Eye 1 Evasive Concentration 1 (Grade 6)
+Legs,"Evasive Concentration 1 Evasive Concentration 2 (Grade 6)
+
+Deviljho
+Helm,"Slugger 1 Dragon Attack 1 Slugger 2 (Grade 6)"
+Mail,"Latent Power 1 Latent Power 2 (Grade 6)
+Arms,"Peak Performance 1 Dragon Attack 1 Peak Performance 2 (Grade 6)
+Waist,"Dragon Attack 1 Tremor Resistance 1 Dragon Attack 2 (Grade 6)
+Legs,"Guts 1 Latent Power 1 Guts 2 (Grade 6)
+
+
+"Coral Pukei"
+Helm,"Weakness Exploit 1 Weakness Exploit 2 (Grade 8) Lock On (Grade 6)"
+Mail,"Power Prolonger 1 Power Prolonger 2 (Grade 6) Rising Tide (Grade 8)
+Arms,"Rising Tide 1 Skyward Striker 1 (Grade 6)
+Waist,"Reload Speed 1 Recoil Down 1 (Grade 6)
+Legs,"Power Prolonger 1 Weakness Exploit 1 (Grade 6)
+
+Basarios
+Helm,"Sleep Resistance 1Sleep Resistance 2 (Grade 4)"
+Mail,"Artillery 1 Artillery 2 (Grade 6)
+Arms,"Recoil Down 1 Recoil Down 2 (Grade 6)
+Waist,"Fire Attack 1 Fire Attack 2 (Grade 6)
+Legs,"Artillery 1 Guard 1 (Grade 4)
+
+Khezu
+Helm,"Paralysis Attack 1Special Insurance 1 (Grade 6)"
+Mail,"Thunder Attack 1 Thunder Attack 2 (Grade 6)
+Arms,"Special Insurance 1 Fortify 1 Special Insurance 2 (Grade 6)
+Waist,"Paralysis Resistance 1 Paralysis Resistance 2 (Grade 6)
+Legs,"Focus 1 Slugger 1 (Grade 6)
+
+
+"Kushala Daora"
+Helm,"Kushala Frostwind 1 Reload Speed 1 Earplugs 1 (Grade 8)"
+Mail,"Kushala Frostwind 1 Partbreaker 1 Health Boost 1 (Grade 8)
+Arms,"Kushala Frostwind 1 Focus 1 Evade Extender 1 (Grade 8)
+Waist,"Kushala Frostwind 1 Weakness Exploit 1 Windproof 1 (Grade 8)
+Legs,"Kushala Frostwind 1 Skyward Striker 1 Artful Dodger 1 (Grade 8)
+
+Alloy
+Helm,"Earplugs 1 (Grade 3) Earplugs 2 (Grade 6) Earplugs 3 (Grade 8)"
+Mail,"Tremor Resistance 1 (Grade 3) Tremor Resistance 2 (Grade 6)
+Arms,"Health Boost 1 (Grade 3) Health Boost 2 (Grade 6) Health Boost 3 (Grade 8)
+Waist,"Defense Boost 1 (Grade 3) Defense Boost 2 (Grade 6) Defense Boost 3 (Grade 8)
+Legs,"Lock On (Grade 3) Windproof 1 (Grade 6)
+
+Mizutsune
+Helm,"Water Attack 1 Water Attack 2 (Grade 6)"
+Mail,"Bubbly Dance 1 Bubbly Dance 2 (Grade 6)
+Arms,"Bubbly Dance 1 Resuscitate 1 (Grade 6)
+Waist,"Evasive Concentration 1 Evasive Concentration 2 (Grade 6)
+Legs,"Resuscitate 1 Resuscitate 2 (Grade 6)
+
+
+"Nightshade Paolumu"
+Helm,"Rude Awakener 1 Rude Awakener 2 (Grade 8)"
+Mail,"Focus 1  Sleep Resistance 1 (Grade 6) Focus 2 (Grade 8)
+Arms,"Sleep Attack 1 Sleep Attack 2 (Grade 6)"
+Waist,"Sneak Attack 1 Evade Extender 1 (Grade 6) Sneak Attack 2 (Grade 8)
+Legs,"Rude Awakener 1 Status Sneak Attack 1 (Grade 6)
+
+Teostra
+Helm,"Teostra Blastpowder 1 Latent Power 1 Guts 1 (Grade 8)"
+Mail,"Teostra Blastpowder 1 Critical Eye 1 Artful Dodger 1 (Grade 8)
+Arms,"Teostra Blastpowder 1  Artillery 1 Guard 1 (Grade 8)
+Waist,"Teostra Blastpowder 1 Power Prolonger 1 Burst 1 (Grade 8)
+Legs,"Teostra Blastpowder 1  Critical Boost 1 Evade Extender 1 (Grade 8)
+
+Aknosom
+Helm,"Defensive Loading 1 Defensive Loading 2 (Grade 6)"
+Mail,"Defensive Loading 1 Guard 1 (Grade 6)
+Arms,"Quick Work 1 Power Prolonger 1 (Grade 6)
+Waist,"Critical Eye 1 Peak Performance 1 (Grade 6)
+Legs,"Fire Attack 1 Fire Attack 2 (Grade 6)
+
+
+Magnamalo 
+Helm,"Hellfire Cloak 1 Hellfire Cloak 2 (Grade 6)"
+Mail,"Reload Speed 2 Blast Resistance 1 (Grade 6)
+Arms,"Blast Attack 1 Blast Attack 2 (Grade 6)
+Waist,"Blast Resistance 1 Hellfire Cloak 1 (Grade 6)
+Legs,"Blast Attack 1 Sneak Attack 1 (Grade 6)
+
+Rajang,
+Helm,"Thunder Resistance 1 Thunder Resistance 2 (Grade 6) Thunder Resistance 3 (Grade 8)"
+Mail,"Fighting Spirit 1 Concentration 1 (Grade 6)
+Arms,"Fighting Spirit 1 Fighting Spirit 2 (Grade 6)
+Waist,"Focus 1 Focus 2 (Grade 6) Focus 3 (Grade 8)
+Legs,"Resentment 1 Tremor Resistance 1 (Grade 8)"
