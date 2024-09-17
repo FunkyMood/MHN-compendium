@@ -1,18 +1,17 @@
 <template>
   <ArmorSkills></ArmorSkills>
- <!--  <ListSkills></ListSkills> -->
+  <Builder></Builder>
 </template>
 
 <script>
-
-/* import ListSkills from "./components/ListSkills"; */
 import ArmorSkills from "./components/ArmorSkills.vue";
+import Builder from '@/components/Builder.vue'
 
 export default {
   name: 'App',
   components: {
-    /* ListSkills, */
     ArmorSkills,
+    Builder
   }
 }
 </script>

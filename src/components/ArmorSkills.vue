@@ -6,10 +6,13 @@
         <ul class="armor-skills">
           <li v-for="(skill, index) in skills" :key="index">
             <div>
+              <div style="display: flex">
                 <strong>Skill Name:</strong> 
-                <span class="btn btn-secondary" data-toggle="tooltip" data-placement="top" title="Da inserire la descrizione della skill">
+                <span  data-toggle="tooltip" data-placement="top" title="Da inserire la descrizione della skill">
                     {{ skill.skill_name }}
                 </span>
+                <button @click="setArmorSelected(skill)" data-toggle="modal" data-backdrop="false" data-target="#modal-builder"></button>
+              </div>
             </div>
             <p><strong>Skill Level:</strong> {{ skill.skill_level }}</p>
             <p><strong>Item Grade:</strong> {{ skill.item_grade }}</p>
@@ -19,8 +22,9 @@
     </div>
   </template>
 
-  <!-- TO do
-   Implementare una search che cerchi le parole chiave e mostri solo l'equip con quelle lì Es. Gauge
+  <!-- TO do in questo componente
+   Far parlare i due json per avere la descrizione della skill
+   Implementare una search che cerchi i nomi di mostri
   -->
 
 <script>
@@ -32,14 +36,28 @@ export default {
     return {
       ArmorSkills,
       ArmorSkillsName: "",
+      SkillDescription: "",
     }
   },
   mounted() {
     this.ArmorSkillsName = Object.keys(ArmorSkills.ArmorSkills);
   },
   methods: {
+    setArmorSelected(skill) {
+      this.$store.dispatch('selectSkill', {
+        skill_name: skill.skill_name,
+        skill_level: skill.skill_level,
+        item_grade: skill.item_grade,
+      });
+      this.$store.dispatch('openModal')
+    }
+  },
 
-  computed: {},
-}
+  computed: {
+    test() {
+      return this.$store.state.selectedSkill;
+    }
+  },
+
 }
 </script>
